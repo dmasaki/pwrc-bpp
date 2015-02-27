@@ -1,0 +1,2154 @@
+species_id	common_name	scientific_name	species_num_cd
+ABDH	American Black Duck X Mallard Hybrid	Anas rubripes x platy.	
+ABDU	American Black Duck	Anas rubripes	133
+ABFL	Asian Brown Flycatcher	Muscicapa dauurica	
+ABTO	Abert's Towhee	Pipilo aberti	592
+ACFL	Acadian Flycatcher	Empidonax virescens	465
+ACGO	Aleutian Cackling Goose	Branta h. leucopareia	172.09999999999999
+ACWO	Acorn Woodpecker	Melanerpes formicivorus	407
+ADWA	Adelaide's Warbler	Dendroica adelaidae	664.10000000000002
+AFCD	African Collared-Dove	Streptopelia roseogrisea	
+AFOW	Ashy-faced Owl	Tyto glaucops	
+AFSI	African Silverbill	Lonchura cantans	
+AGHE	Agami Heron	Agamia agami	
+AGWT	American Green-winged Teal	Anas c. carolinensis	139
+AHJA	Azure-hooded Jay	Cyanolyca cucullata	
+AKEK	Akekee	Loxops caeruleirostris	796
+AKEP	Akepa	Loxops coccineus	795
+AKIA	Akiapolaau	Hemignathus munroi	
+AKIK	Akikiki	Oreomystis bairdi	
+AKOH	Akohekohe	Palmeria dolei	
+ALFL	Alder Flycatcher	Empidonax alnorum	466.10000000000002
+ALHU	Allen's Hummingbird	Selasphorus sasin	434
+ALOR	Altamira Oriole	Icterus gularis	503.10000000000002
+ALSW	Alpine Swift	Apus melba	
+ALTE	Aleutian Tern	Onychoprion aleuticus	73
+ALYE	Altamira Yellowthroat	Geothlypis flavovelata	
+AMAU	Amaui	Myadestes woahensis	
+AMAV	American Avocet	Recurvirostra americana	225
+AMBI	American Bittern	Botaurus lentiginosus	190
+AMCO	American Coot	Fulica americana	221
+AMCR	American Crow	Corvus brachyrhynchos	488
+AMDI	American Dipper	Cinclus mexicanus	701
+AMGO	American Goldfinch	Carduelis tristis	529
+AMGP	American Golden-Plover	Pluvialis dominica	272
+AMKE	American Kestrel	Falco sparverius	360
+AMKI	Amazon Kingfisher	Chloroceryle amazona	
+AMOY	American Oystercatcher	Haematopus palliatus	286
+AMPI	American Pipit	Anthus rubescens	697
+AMRE	American Redstart	Setophaga ruticilla	687
+AMRO	American Robin	Turdus migratorius	761
+AMWI	American Wigeon	Anas americana	137
+AMWO	American Woodcock	Scolopax minor	228
+ANCH	Antillean Crested Hummingbird	Orthorhyncus cristatus	
+ANEU	Antillean Euphonia	Euphonia musica	606.10000000000002
+ANHI	Anhinga	Anhinga anhinga	118
+ANHU	Anna's Hummingbird	Calypte anna	431
+ANIA	Anianiau	Hemignathus parvus	784
+ANMA	Antillean Mango	Anthracothorax dominicus	906.70000000000005
+ANMU	Ancient Murrelet	Synthliboramphus antiquus	21
+ANNI	Antillean Nighthawk	Chordeiles gundlachii	420.10000000000002
+ANPI	Antillean Piculet	Nesoctites micromegas	
+ANPS	Antillean Palm-Swift	Tachornis phoenicobia	
+ANSI	Antillean Siskin	Carduelis dominicensis	
+APAP	Apapane	Himatione sanguinea	802
+APFA	Aplomado Falcon	Falco femoralis	359
+APKI	American Pygmy Kingfisher	Chloroceryle aenea	
+ARLO	Arctic Loon	Gavia arctica	9
+ARRW	Arrowhead Warbler	Dendroica pharetra	
+ARTA	Azure-rumped Tanager	Tangara cabanisi	
+ARTE	Arctic Tern	Sterna paradisaea	71
+ARWA	Arctic Warbler	Phylloscopus borealis	747
+ARWO	Arizona Woodpecker	Picoides arizonae	397.5
+ASSP	Ashy Storm-Petrel	Oceanodroma homochroa	108
+ATBR	Atlantic Brant	Branta b. bernicla	173
+ATBT	Ashy-throated Bush-Tanager	Chlorospingus canigularis	
+ATFL	Ash-throated Flycatcher	Myiarchus cinerascens	454
+ATGR	Atitlan Grebe	Podilymbus gigas	
+ATHU	Amethyst-throated Hummingbird	Lampornis amethystinus	
+ATPU	Atlantic Puffin	Fratercula arctica	13
+ATSP	American Tree Sparrow	Spizella arborea	559
+ATSW	Ashy-tailed Swift	Chaetura andrei	
+ATTW	American Three-toed Woodpecker	Picoides dorsalis	401
+AUOR	Audubon's Oriole	Icterus graduacauda	503
+AUSH	Audubon's Shearwater	Puffinus lherminieri	92
+AUWA	Audubon's Warbler	Dendroica c. auduboni	656
+AWPE	American White Pelican	Pelecanus erythrorhynchos	125
+AZCH	Azure-crowned Hummingbird	Amazilia cyanocephala	
+AZGA	Azure Gallinule	Porphyrio flavirostris	
+AZTH	Aztec Thrush	Ridgwayia pinicola	763.10000000000002
+BAAN	Barred Antshrike	Thamnophilus doliatus	
+BABE	Barred Becard	Pachyramphus versicolor	
+BABU	Barbados Bullfinch	Loxigilla barbadensis	
+BABW	Band-backed Wren	Campylorhynchus zonatus	
+BACA	Bare-crowned Antbird	Gymnocichla nudiceps	
+BACS	Bachman's Sparrow	Aimophila aestivalis	575
+BADO	Barred Owl	Strix varia	368
+BAEA	Bald Eagle	Haliaeetus leucocephalus	352
+BAFA	Bat Falcon	Falco rufigularis	
+BAFF	Barred Forest-Falcon	Micrastur ruficollis	
+BAGO	Barrow's Goldeneye	Bucephala islandica	152
+BAGT	Blue-and-gold Tanager	Bangsia arcaei	
+BAHA	Barred Hawk	Leucopternis princeps	
+BAHS	Bahama Swallow	Tachycineta cyaneoviridis	615.10000000000002
+BAIS	Baird's Sparrow	Ammodramus bairdii	545
+BAMO	Bahama Mockingbird	Mimus gundlachii	703.10000000000002
+BANA	Bananaquit	Coereba flaveola	635
+BANO	Barn Owl	Tyto alba	365
+BANS	Bank Swallow	Riparia riparia	616
+BANW	Banded Wren	Thryothorus pleurostictus	
+BAOR	Baltimore Oriole	Icterus galbula	507
+BAPA	Barred Parakeet	Bolborhynchus lineola	
+BAPU	Barred Puffbird	Nystalus radiatus	
+BAQU	Banded Quail	Philortyx fasciatus	
+BARG	Barnacle Goose	Branta leucopsis	175
+BARS	Barn Swallow	Hirundo rustica	613
+BARW	Barbuda Warbler	Dendroica subita	
+BASA	Baird's Sandpiper	Calidris bairdii	241
+BASO	Balsas Screech-Owl	Megascops seductus	
+BATE	Baikal Teal	Anas formosa	139.09999999999999
+BATR	Baird's Trogon	Trogon bairdii	
+BAWA	Bachman's Warbler	Vermivora bachmanii	640
+BAWB	Black-and-white Becard	Pachyramphus albogriseus	
+BAWH	Black-and-white Hawk-Eagle	Spizastur melanoleucus	
+BAWM	Blue-and-white Mockingbird	Melanotis hypoleucus	
+BAWO	Bahama Woodstar	Calliphlox evelynae	437.10000000000002
+BAWS	Blue-and-white Swallow	Pygochelidon cyanoleuca	
+BAWW	Black-and-white Warbler	Mniotilta varia	636
+BAYE	Bahama Yellowthroat	Geothlypis rostrata	914.5
+BAYM	Blue-and-yellow Macaw	Ara ararauna	
+BAYS	Black-and-yellow Silky-flycatcher	Phainoptila melanoxantha	
+BAYT	Black-and-yellow Tanager	Chrysothlypis chrysomelas	
+BAYW	Bay Wren	Thryothorus nigricapillus	
+BBAL	Black-browed Albatross	Thalassarche melanophris	82.200000000000003
+BBCU	Black-billed Cuckoo	Coccyzus erythropthalmus	388
+BBEH	Buff-bellied Hummingbird	Amazilia yucatanensis	
+BBEW	Black-bellied Wren	Thryothorus fasciatoventris	
+BBFL	Buff-breasted Flycatcher	Empidonax fulvifrons	470
+BBHE	Boat-billed Heron	Cochlearius cochlearius	
+BBIH	Broad-billed Hummingbird	Cynanthus latirostris	
+BBIS	Broad-billed Sandpiper	Limicola falcinellus	
+BBLH	Broad-billed Hummingbird	Cynanthus latirostris	441
+BBMA	Black-billed Magpie	Pica hudsonia	475
+BBMO	Broad-billed Motmot	Electron platyrhynchum	
+BBNT	Black-billed Nightingale-Thrush	Catharus gracilirostris	
+BBNW	Black-banded Woodcreeper	Dendrocolaptes picumnus	
+BBOH	Bullock's x Baltimore Oriole Hybrid	Icterus bullockii  x galb.	507.80000000000001
+BBOR	Black-backed Oriole	Icterus abeillei	
+BBPA	Black-billed Parrot	Amazona agilis	
+BBPL	Black-bellied Plover	Pluvialis squatarola	270
+BBPU	Black-breasted Puffbird	Notharchus pectoralis	
+BBRC	Bay-breasted Cuckoo	Coccyzus rufigularis	
+BBRW	Buff-breasted Wren	Thryothorus leucotis	
+BBSA	Buff-breasted Sandpiper	Tryngites subruficollis	262
+BBSC	Brown-billed Scythebill	Campylorhamphus pusillus	
+BBSO	Brown-backed Solitaire	Myadestes occidentalis	
+BBSP	Black-bellied Storm-Petrel	Fregetta tropica	
+BBTO	Broad-billed Tody	Todus subulatus	
+BBWA	Bay-breasted Warbler	Dendroica castanea	660
+BBWD	Black-bellied Whistling-Duck	Dendrocygna autumnalis	177
+BBWO	Black-backed Woodpecker	Picoides arcticus	400
+BBWQ	Black-breasted Wood-Quail	Odontophorus leucolaemus	
+BCAF	Black-capped Flycatcher	Empidonax atriceps	
+BCAH	Blue-capped Hummingbird	Eupherusa cyanophrys	
+BCAT	Black-cheeked Ant-Tanager	Habia atrimaxillaris	
+BCAV	Brown-capped Vireo	Vireo leucophrys	
+BCCH	Black-capped Chickadee	Poecile atricapillus	735
+BCCO	Black-crested Coquette	Lophornis helenae	
+BCDO	Black-capped Donacobius	Donacobius atricapilla	
+BCFL	Brown-crested Flycatcher	Myiarchus tyrannulus	453
+BCGN	Black-capped Gnatcatcher	Polioptila nigriceps	753.10000000000002
+BCHA	Black-collared Hawk	Busarellus nigricollis	
+BCHH	Blue-chested Hummingbird	Amazilia amabilis	
+BCHJ	Black-chested Jay	Cyanocorax affinis	
+BCHS	Black-chested Sparrow	Aimophila humeralis	
+BCHU	Black-chinned Hummingbird	Archilochus alexandri	429
+BCMA	Brown-chested Martin	Progne tapera	
+BCMO	Blue-crowned Motmot	Momotus momota	
+BCNA	Black-crowned Antpitta	Pittasoma michleri	
+BCNH	Black-crowned Night-Heron	Nycticorax nycticorax	202
+BCNI	Buff-collared Nightjar	Caprimulgus ridgwayi	416.10000000000002
+BCOF	Bran-colored Flycatcher	Myiophobus fasciatus	
+BCOR	Black-cowled Oriole	Icterus prosthemelas	504.19999999999999
+BCPE	Black-capped Petrel	Pterodroma hasitata	98
+BCRC	Blue-crowned Chlorophonia	Chlorophonia occipitalis	
+BCRF	Brown-capped Rosy-Finch	Leucosticte australis	526
+BCRJ	Bushy-crested Jay	Cyanocorax melanocyaneus	
+BCRM	Blue-crowned Manakin	Pipra coronata	
+BCRT	Black-crowned Tityra	Tityra inquisitor	
+BCSI	Black-capped Siskin	Carduelis atriceps	
+BCSP	Black-chinned Sparrow	Spizella atrogularis	565
+BCSW	Black-capped Swallow	Notiochelidon pileata	
+BCTI	Black-crested Titmouse	Baeolophus atricristatus	732
+BCTY	Brown-capped Tyrannulet	Ornithion brunneicapillus	
+BCVI	Black-capped Vireo	Vireo atricapilla	630
+BCWA	Black-cheeked Warbler	Basileuterus melanogenys	
+BCWO	Black-cheeked Woodpecker	Melanerpes pucherani	
+BCWP	Buffy-crowned Wood-Partridge	Dendrortyx leucophrys	
+BEAH	Beautiful Hummingbird	Calothorax pulcher	
+BEEH	Bee Hummingbird	Mellisuga helenae	
+BEFL	Belted Flycatcher	Xenotriccus callizonus	
+BEGO	Bean Goose	Anser fabalis	171.09999999999999
+BEGU	Belcher's Gull	Larus belcheri	
+BEHU	Berylline Hummingbird	Amazilia beryllina	438.10000000000002
+BEKI	Belted Kingfisher	Ceryle alcyon	390
+BEPE	Bermuda Petrel	Pterodroma cahow	98.099999999999994
+BERO	Bare-eyed Robin	Turdus nudigenis	
+BESO	Bearded Screech-Owl	Megascops barbarus	
+BESW	Bewick's Swan	Cygnus c. bewickii	180.09999999999999
+BETH	Bendire's Thrasher	Toxostoma bendirei	708
+BETR	Beautiful Treerunner	Margarornis bellulus	
+BEVI	Bell's Vireo	Vireo bellii	633
+BEWP	Bearded Wood-Partridge	Dendrortyx barbatus	
+BEWQ	Black-eared Wood-Quail	Odontophorus melanotis	
+BEWR	Bewick's Wren	Thryomanes bewickii	719
+BEYE	Belding's Yellowthroat	Geothlypis beldingi	
+BFAG	Black-faced Grosbeak	Caryothraustes poliogaster	
+BFAL	Black-footed Albatross	Phoebastria nigripes	81
+BFAN	Black-faced Antthrush	Formicarius analis	
+BFBO	Blue-footed Booby	Sula nebouxii	114.09999999999999
+BFFG	Buff-fronted Foliage-gleaner	Philydor rufum	
+BFGR	Black-faced Grassquit	Tiaris bicolor	603
+BFPA	Blue-fronted Parrotlet	Touit dilectissimus	
+BFQD	Buff-fronted Quail-Dove	Geotrygon costaricensis	
+BFSO	Black-faced Solitaire	Myadestes melanops	
+BGGN	Blue-gray Gnatcatcher	Polioptila caerulea	751
+BGNO	Blue-gray Noddy	Procelsterna cerulea	79.200000000000003
+BGRA	Blue-black Grassquit	Volatinia jacarina	
+BGRO	Blue-black Grosbeak	Cyanocompsa cyanoides	
+BGSE	Blue Grouse	Dendragapus obscurus	297
+BGTA	Blue-gray Tanager	Thraupis episcopus	
+BHCO	Brown-headed Cowbird	Molothrus ater	495
+BHEA	Black-headed Antthrush	Formicarius nigricapillus	
+BHEP	Blue-headed Parrot	Pionus menstruus	
+BHGR	Black-headed Grosbeak	Pheucticus melanocephalus	596
+BHGU	Black-headed Gull	Larus ridibundus	55.100000000000001
+BHHU	Blue-headed Hummingbird	Cyanophaia bicolor	
+BHNT	Black-headed Nightingale-Thrush	Catharus mexicanus	
+BHNU	Brown-headed Nuthatch	Sitta pusilla	729
+BHOA	Black-hooded Antshrike	Thamnophilus bridgesi	
+BHOP	Brown-hooded Parrot	Pionopsitta haematotis	
+BHQD	Blue-headed Quail-Dove	Starnoenas cyanocephala	
+BHSA	Black-headed Saltator	Saltator atriceps	
+BHSI	Black-headed Siskin	Carduelis notata	
+BHTA	Bay-headed Tanager	Tangara gyrola	
+BHTF	Black-headed Tody-Flycatcher	Todirostrum nigriceps	
+BHTR	Black-headed Trogon	Trogon melanocephalus	
+BHVI	Blue-headed Vireo	Vireo solitarius	629
+BIAN	Bicolored Antbird	Gymnopithys leucaspis	
+BIHA	Bicolored Hawk	Accipiter bicolor	
+BIOO	Bishop's Oo	Moho bishopi	622.29999999999995
+BITH	Bicknell's Thrush	Catharus bicknelli	757.10000000000002
+BLAG	Black Guan	Chamaepetes unicolor	
+BLAK	Black Kite	Milvus migrans	
+BLAN	Black Antshrike	Thamnophilus nigriceps	
+BLBF	Black-billed Flycatcher	Aphanotriccus audax	
+BLBH	Black-bellied Hummingbird	Eupherusa nigriventris	
+BLBR	Black Brant	Branta b. nigricans	174
+BLBU	Blue Bunting	Cyanocompsa parellina	597.10000000000002
+BLBW	Blackburnian Warbler	Dendroica fusca	662
+BLCA	Black Catbird	Melanoptila glabrirostris	
+BLCO	Blue Cotinga	Cotinga nattererii	
+BLDA	Blue Dacnis	Dacnis cayana	
+BLFR	Black Francolin	Francolinus francolinus	
+BLGD	Blue Ground-Dove	Claravis pretiosa	
+BLGR	Blue Grosbeak	Passerina caerulea	597
+BLGU	Black Guillemot	Cepphus grylle	27
+BLHE	Black Hawk-Eagle	Spizaetus tyrannus	
+BLJA	Blue Jay	Cyanocitta cristata	477
+BLKI	Black-legged Kittiwake	Rissa tridactyla	40
+BLMA	Black Mamo	Drepanis funerea	
+BLMO	Blue Mockingbird	Melanotis caerulescens	
+BLNO	Black Noddy	Anous minutus	79.099999999999994
+BLOR	Black Oropendola	Psarocolius guatimozinus	
+BLOW	Bare-legged Owl	Gymnoglaux lawrencii	
+BLOY	Black Oystercatcher	Haematopus bachmani	287
+BLPH	Black Phoebe	Sayornis nigricans	458
+BLPW	Blackpoll Warbler	Dendroica striata	661
+BLRA	Black Rail	Laterallus jamaicensis	216
+BLRF	Black Rosy-Finch	Leucosticte atrata	525
+BLRO	Black Robin	Turdus infuscatus	
+BLSC	Black Scoter	Melanitta nigra	163
+BLSE	Blue Seedeater	Amaurospiza concolor	
+BLSK	Black Skimmer	Rynchops niger	80
+BLSP	Black Storm-Petrel	Oceanodroma melania	107
+BLSW	Black Swift	Cypseloides niger	422
+BLTE	Black Tern	Chlidonias niger	77
+BLTH	Blue-tailed Hummingbird	Amazilia cyanura	
+BLTU	Black Turnstone	Arenaria melanocephala	284
+BLUE	Bluethroat	Luscinia svecica	764
+BLUH	Blue-throated Hummingbird	Lampornis clemenciae	427
+BLVU	Black Vulture	Coragyps atratus	326
+BLWO	Black-and-white Owl	Ciccaba nigrolineata	
+BMVI	Blue Mountain Vireo	Vireo osburni	
+BNIB	Buff-necked Ibis	Theristicus caudatus	
+BNST	Black-necked Stilt	Himantopus mexicanus	226
+BNUM	Bare-necked Umbrellabird	Cephalopterus glabricollis	
+BOBF	Boat-billed Flycatcher	Megarynchus pitangua	
+BOBO	Bobolink	Dolichonyx oryzivorus	494
+BOCH	Boreal Chickadee	Poecile hudsonica	740
+BOGU	Bonaparte's Gull	Larus philadelphia	60
+BOOW	Boreal Owl	Aegolius funereus	371
+BOPE	Bonin Petrel	Pterodroma hypoleuca	99.099999999999994
+BOPT	Bronze-olive Pygmy-Tyrant	Pseudotriccus pelzelni	
+BOSP	Botteri's Sparrow	Aimophila botterii	576
+BOWA	Bohemian Waxwing	Bombycilla garrulus	618
+BOWR	Boucard's Wren	Campylorhynchus jocosus	
+BPLT	Black-crowned Palm-Tanager	Phaenicophilus palmarum	
+BPYE	Black-polled Yellowthroat	Geothlypis speciosa	
+BPYT	Black-capped Pygmy-Tyrant	Myiornis atricapillus	
+BRAC	Brandt's Cormorant	Phalacrocorax penicillatus	122
+BRAM	Brambling	Fringilla montifringilla	514.10000000000002
+BRAN	Brant	Branta bernicla	
+BRAT	Bright-rumped Attila	Attila spadiceus	
+BRBL	Brewer's Blackbird	Euphagus cyanocephalus	510
+BRBO	Brown Booby	Sula leucogaster	115
+BRCR	Brown Creeper	Certhia americana	726
+BREM	Brace's Emerald	Chlorostilbon bracei	
+BRFL	Brownish Flycatcher	Cnipodectes subbrunneus	
+BRHE	Bronzy Hermit	Glaucis aeneus	
+BRIN	Brant Intergrade	Branta b. bern. x nigri.	
+BRIS	Bridled Sparrow	Aimophila mystacalis	
+BRJA	Brown Jay	Cyanocorax morio	483.19999999999999
+BRMA	Bronze Mannikin	Lonchura cucullata	810.10000000000002
+BRNO	Brown Noddy	Anous stolidus	79
+BROC	Bronzed Cowbird	Molothrus aeneus	496
+BRPE	Brown Pelican	Pelecanus occidentalis	126
+BRQD	Bridled Quail-Dove	Geotrygon mystacea	322.19999999999999
+BRSH	Brown Shrike	Lanius cristatus	621.10000000000002
+BRSP	Brewer's Sparrow	Spizella breweri	562
+BRSW	Band-rumped Swift	Chaetura spinicaudus	
+BRTE	Bridled Tern	Onychoprion anaethetus	76
+BRTH	Brown Thrasher	Toxostoma rufum	705
+BRTI	Bridled Titmouse	Baeolophus wollweberi	734
+BRTR	Brown Trembler	Cinclocerthia ruficauda	
+BRUW	Black-rumped Waxbill	Estrilda troglodytes	
+BRVE	Brown Violet-ear	Colibri delphinae	
+BRWA	Brewster's Warbler	Vermivora pinus x chrysopt.	641.20000000000005
+BSSO	Bare-shanked Screech-Owl	Megascops clarkii	
+BSSP	Belding's Savannah Sparrow	Passerculus s. beldingi	543
+BSTP	Band-rumped Storm-Petrel	Oceanodroma castro	106.2
+BSTS	Black-striped Sparrow	Arremonops conirostris	
+BSWO	Black-striped Woodcreeper	Xiphorhynchus lachrymosus	
+BTAH	Broad-tailed Hummingbird	Selasphorus platycercus	
+BTAT	Black-tailed Trogon	Trogon melanurus	
+BTBA	Band-tailed Barbthroat	Threnetes ruckeri	
+BTBO	Black-throated Bobwhite	Colinus nigrogularis	
+BTBW	Black-throated Blue Warbler	Dendroica caerulescens	654
+BTCO	Black-tipped Cotinga	Carpodectes hopkei	
+BTCU	Bristle-thighed Curlew	Numenius tahitiensis	268
+BTFG	Buff-throated Foliage-gleaner	Automolus ochrolaemus	
+BTFL	Black-tailed Flycatcher	Myiobius atricaudus	
+BTGD	Black-tailed Godwit	Limosa limosa	252
+BTGG	Black-thighed Grosbeak	Pheucticus tibialis	
+BTGN	Black-tailed Gnatcatcher	Polioptila melanura	752
+BTGO	Bar-tailed Godwit	Limosa lapponica	250
+BTGR	Boat-tailed Grackle	Quiscalus major	513
+BTGU	Black-tailed Gull	Larus crassirostris	54.200000000000003
+BTHH	Blue-throated Hummingbird	Lampornis clemenciae	
+BTHT	Black-throated Trogon	Trogon rufus	
+BTHU	Broad-tailed Hummingbird	Selasphorus platycercus	432
+BTJA	Black-throated Jay	Cyanolyca pumilo	
+BTMA	Black-throated Mango	Anthracothorax nigricollis	
+BTMJ	Black-throated Magpie-Jay	Calocitta colliei	
+BTMO	Blue-throated Motmot	Aspatha gularis	
+BTNW	Black-throated Green Warbler	Dendroica virens	667
+BTPA	Brown-throated Parakeet	Aratinga pertinax	
+BTPI	Band-tailed Pigeon	Patagioenas fasciata	312
+BTPL	Bronze-tailed Plumeleteer	Chalybura urochrysia	
+BTRG	Blue-throated Goldentail	Hylocharis eliciae	
+BTSA	Buff-throated Saltator	Saltator maximus	
+BTSP	Black-throated Sparrow	Amphispiza bilineata	573
+BTST	Black-throated Shrike-Tanager	Lanio aurantius	
+BTTH	Bare-throated Tiger-Heron	Tigrisoma mexicanum	
+BTWR	Black-throated Wren	Thryothorus atrogularis	
+BTYW	Black-throated Gray Warbler	Dendroica nigrescens	665
+BUDG	Budgerigar	Melopsittacus undulatus	
+BUFF	Bufflehead	Bucephala albeola	153
+BUFH	Buff-bellied Hummingbird	Amazilia yucatanensis	439
+BUHU	Bumblebee Hummingbird	Atthis heloisa	435
+BULS	Buller's Shearwater	Puffinus bulleri	96.200000000000003
+BUOR	Bullock's Oriole	Icterus bullockii	508
+BUOW	Burrowing Owl	Athene cunicularia	378
+BUPE	Bulwer's Petrel	Bulweria bulwerii	101
+BURW	Buff-rumped Warbler	Phaeothlypis fulvicauda	
+BUSH	Bushtit	Psaltriparus minimus	743
+BUTU	Buffy Tuftedcheek	Pseudocolaptes lawrencii	
+BVOR	Black-vented Oriole	Icterus wagleri	504.10000000000002
+BVSH	Black-vented Shearwater	Puffinus opisthomelas	93
+BWHA	Broad-winged Hawk	Buteo platypterus	343
+BWOR	Bar-winged Oriole	Icterus maculialatus	
+BWPE	Black-winged Petrel	Pterodroma nigripennis	
+BWST	Black-winged Stilt	Himantopus himantopus	
+BWTE	Blue-winged Teal	Anas discors	140
+BWVI	Black-whiskered Vireo	Vireo altiloquus	623
+BWWA	Blue-winged Warbler	Vermivora pinus	641
+CAAU	Cassin's Auklet	Ptychoramphus aleuticus	16
+CACG	Cackling Goose	Branta hutchinsii	172.19999999999999
+CACH	Carolina Chickadee	Poecile carolinensis	736
+CACO	California Condor	Gymnogyps californianus	324
+CACW	Cactus Wren	Campylorhynchus brunneicapillus	713
+CADO	Caribbean Dove	Leptotila jamaicensis	
+CAEG	Cattle Egret	Bubulcus ibis	200.09999999999999
+CAEL	Caribbean Elaenia	Elaenia martinica	472.10000000000002
+CAEM	Canivet's Emerald	Chlorostilbon canivetii	
+CAFI	Cassin's Finch	Carpodacus cassinii	518
+CAGN	California Gnatcatcher	Polioptila californica	753
+CAGO	Canada Goose	Branta canadensis	172
+CAGR	Carib Grackle	Quiscalus lugubris	
+CAGU	California Gull	Larus californicus	53
+CAHE	Capped Heron	Pilherodius pileatus	
+CAHU	Calliope Hummingbird	Stellula calliope	436
+CAKI	Cassin's Kingbird	Tyrannus vociferans	448
+CALT	California Towhee	Pipilo crissalis	591.10000000000002
+CAMA	Caribbean Martin	Progne dominicensis	611.29999999999995
+CANT	Canyon Towhee	Pipilo fuscus	591
+CANV	Canvasback	Aythya valisineria	147
+CANW	Canyon Wren	Catherpes mexicanus	717
+CAPA	Carolina Parakeet	Conuropsis carolinensis	381.39999999999998
+CAPO	Central American Pygmy-Owl	Glaucidium griseiceps	
+CAQU	California Quail	Callipepla californica	294
+CARC	Caribbean Coot	Fulica caribaea	221.09999999999999
+CARW	Carolina Wren	Thryothorus ludovicianus	718
+CASP	Cassin's Sparrow	Aimophila cassinii	578
+CASW	Cave Swallow	Petrochelidon fulva	612.10000000000002
+CATE	Caspian Tern	Hydroprogne caspia	64
+CATH	California Thrasher	Toxostoma redivivum	710
+CATY	Cattle Tyrant	Machetornis rixosa	
+CAVI	Cassin's Vireo	Vireo cassinii	629.20000000000005
+CAWA	Canada Warbler	Wilsonia canadensis	686
+CBAN	Chestnut-backed Antbird	Myrmeciza exsul	
+CBCC	Carolina X Black-c. Chickadee Hybrid	Poecile caroli. x atrica.	
+CBCH	Chestnut-backed Chickadee	Poecile rufescens	741
+CBCU	Chestnut-bellied Cuckoo	Coccyzus pluvialis	
+CBFL	Cinnamon-bellied Flowerpiercer	Diglossa baritula	
+CBSA	Chestnut-bellied Sandgrouse	Pterocles exustus	
+CBTA	Crimson-backed Tanager	Ramphocelus dimidiatus	
+CBTH	Curve-billed Thrasher	Toxostoma curvirostre	707
+CBWO	Crimson-bellied Woodpecker	Campephilus haematogaster	
+CCBF	Chestnut-capped Brush-Finch	Buarremon brunneinucha	
+CCGR	Crimson-collared Grosbeak	Rhodothraupis celaeno	
+CCLO	Chestnut-collared Longspur	Calcarius ornatus	538
+CCOW	Chestnut-colored Woodpecker	Celeus castaneus	
+CCRO	Clay-colored Robin	Turdus grayi	762.10000000000002
+CCRW	Crimson-crested Woodpecker	Campephilus melanoleucos	
+CCSP	Clay-colored Sparrow	Spizella pallida	561
+CCSW	Chestnut-collared Swift	Streptoprocne rutila	
+CCTA	Crimson-collared Tanager	Ramphocelus sanguinolentus	
+CCWA	Crescent-chested Warbler	Parula superciliosa	
+CEDW	Cedar Waxwing	Bombycilla cedrorum	619
+CERW	Cerulean Warbler	Dendroica cerulea	658
+CFMA	Chestnut-fronted Macaw	Ara severus	
+CFPA	Crimson-fronted Parakeet	Aratinga finschi	
+CGWO	Cuban Green Woodpecker	Xiphidiopicus percussus	
+CHAS	Chapman's Swift	Chaetura chapmani	
+CHEG	Chinese Egret	Egretta eulophotes	
+CHEM	Coppery-headed Emerald	Elvira cupreiceps	
+CHET	Cherrie's Tanager	Ramphocelus costaricensis	
+CHHU	Charming Hummingbird	Amazilia decora	
+CHMU	Chestnut Munia	Lonchura atricapilla	
+CHOR	Chestnut-headed Oropendola	Psarocolius wagleri	
+CHOT	Choco Tapaculo	Scytalopus chocoensis	
+CHPH	Chinese Pond-Heron	Ardeola bacchus	
+CHQD	Chiriqui Quail-Dove	Geotrygon chiriquensis	
+CHRA	Chihuahuan Raven	Corvus cryptoleucus	487
+CHRE	Common/Hoary Redpoll	Carduelis flamm./hornemanni	
+CHSH	Christmas Shearwater	Puffinus nativitatis	96.299999999999997
+CHSP	Chipping Sparrow	Spizella passerina	560
+CHSW	Chimney Swift	Chaetura pelagica	423
+CHTI	Choco Tinamou	Crypturellus kerriae	
+CHUK	Chukar	Alectoris chukar	288.19999999999999
+CIHU	Cinnamon Hummingbird	Amazilia rutila	
+CIMB	Cinnamon Becard	Pachyramphus cinnamomeus	
+CIRB	Cinereous Becard	Pachyramphus rufus	
+CITE	Cinnamon Teal	Anas cyanoptera	141
+CITR	Citreoline Trogon	Trogon citreolus	
+CIWA	Citrine Wagtail	Motacilla citreola	
+CIWO	Cinnamon Woodpecker	Celeus loricatus	
+CLGR	Clark's Grebe	Aechmophorus clarkii	1.1000000000000001
+CLNU	Clark's Nutcracker	Nucifraga columbiana	491
+CLRA	Clapper Rail	Rallus longirostris	211
+CLSW	Cliff Swallow	Petrochelidon pyrrhonota	612
+CLWR	Clarion Wren	Troglodytes tanneri	
+CMTO	Chestnut-mandibled Toucan	Ramphastos swainsonii	
+CMWA	Cape May Warbler	Dendroica tigrina	650
+COAR	Collared Aracari	Pteroglossus torquatus	
+COBH	Common Black-Hawk	Buteogallus anthracinus	
+COBT	Common Bush-Tanager	Chlorospingus ophthalmicus	
+COBU	Common Bushtit	Psaltriparus minimus	
+COCA	Common Canary	Serinus canaria	533.10000000000002
+COCC	Cocos Cuckoo	Coccyzus ferrugineus	
+COCF	Cocos Flycatcher	Nesotriccus ridgwayi	
+COCH	Common Chaffinch	Fringilla coelebs	514.29999999999995
+COCT	Cocoa Thrush	Turdus fumigatus	
+COCU	Common Cuckoo	Cuculus canorus	388.19999999999999
+CODU	Comb Duck	Sarkidiornis melanotos	
+COEI	Common Eider	Somateria mollissima	159
+COEM	Cozumel Emerald	Chlorostilbon forficatus	
+COFF	Collared Forest-Falcon	Micrastur semitorquatus	
+COFI	Cocos Finch	Pinaroloxias inornata	
+COFL	Cordilleran Flycatcher	Empidonax occidentalis	464
+COGD	Common Ground-Dove	Columbina passerina	320
+COGO	Common Goldeneye	Bucephala clangula	151
+COGR	Common Grackle	Quiscalus quiscula	511
+COHA	Cooper's Hawk	Accipiter cooperii	333
+COHE	Cocoi Heron	Ardea cocoi	
+COHM	Common House-Martin	Delichon urbicum	615.20000000000005
+COHU	Costa's Hummingbird	Calypte costae	430
+COKI	Couch's Kingbird	Tyrannus couchii	446.10000000000002
+COLC	Colombian Crake	Neocrex colombiana	
+COLO	Common Loon	Gavia immer	7
+COLR	Collared Redstart	Myioborus torquatus	
+COLW	Colima Warbler	Vermivora crissalis	647.10000000000002
+COMC	Common Crane	Grus grus	
+COME	Common Merganser	Mergus merganser	129
+COMG	Common Greenshank	Tringa nebularia	253
+COMO	Common Moorhen	Gallinula chloropus	219
+COMR	Common Redshank	Tringa totanus	253.09999999999999
+COMU	Common Murre	Uria aalge	30
+COMW	Common Waxbill	Estrilda astrild	808.10000000000002
+COMY	Common Myna	Acridotheres tristis	493.19999999999999
+CONI	Common Nighthawk	Chordeiles minor	420
+CONW	Connecticut Warbler	Oporornis agilis	678
+COOP	Cook's Petrel	Pterodroma cookii	98.299999999999997
+COPA	Common Pauraque	Nyctidromus albicollis	419
+COPL	Collared Plover	Charadrius collaris	
+COPO	Common Poorwill	Phalaenoptilus nuttallii	418
+CORA	Common Raven	Corvus corax	486
+CORC	Corn Crake	Crex crex	217
+CORE	Common Redpoll	Carduelis flammea	528
+CORO	Common Rosefinch	Carpodacus erythrinus	516.10000000000002
+COSA	Common Sandpiper	Actitis hypoleucos	263.10000000000002
+COSH	Cory's Shearwater	Calonectris diomedea	88
+COSN	Common Snipe	Gallinago gallinago	
+COSW	Common Swift	Apus apus	424.19999999999999
+COTE	Common Tern	Sterna hirundo	70
+COTF	Common Tody-Flycatcher	Todirostrum cinereum	
+COTO	Collared Towhee	Pipilo ocai	
+COTR	Collared Trogon	Trogon collaris	
+COVI	Cozumel Vireo	Vireo bairdi	
+COWO	Cocoa Woodcreeper	Xiphorhynchus susurrans	
+COYE	Common Yellowthroat	Geothlypis trichas	681
+COZT	Cozumel Thrasher	Toxostoma guttatum	
+CPAK	Cuban Parakeet	Aratinga euops	
+CPAT	Cuban Parrot	Amazona leucocephala	
+CPEA	Common Peafowl	Pavo cristatus	
+CPOC	Common Pochard	Aythya ferina	146.09999999999999
+CPOT	Common Potoo	Nyctibius griseus	
+CPYO	Colima Pygmy-Owl	Glaucidium palmarum	
+CRAU	Crested Auklet	Aethia cristatella	18
+CRBO	Crested Bobwhite	Colinus cristatus	
+CRCA	Crested Caracara	Caracara cheriway	362
+CREA	Crested Eagle	Morphnus guianensis	
+CRGU	Crested Guan	Penelope purpurascens	
+CRHA	Crane Hawk	Geranospiza caerulescens	
+CRMU	Craveri's Murrelet	Synthliboramphus craveri	26
+CRMY	Crested Myna	Acridotheres cristatellus	493.10000000000002
+CROR	Crested Oropendola	Psarocolius decumanus	
+CROW	Crested Owl	Lophostrix cristata	
+CRPL	Common Ringed Plover	Charadrius hiaticula	275
+CRPO	Costa Rican Pygmy-Owl	Glaucidium costaricanum	
+CRQD	Crested Quail-Dove	Geotrygon versicolor	
+CRSW	Costa Rican Swift	Chaetura fumosa	
+CRTH	Crissal Thrasher	Toxostoma crissale	712
+CSSS	Cape Sable Seaside-Sparrow	Ammodramus m. mirabilis	551.10000000000002
+CSSV	Chestnut-sided Shrike-Vireo	Vireolanius melitophrys	
+CSWA	Chestnut-sided Warbler	Dendroica pensylvanica	659
+CTAN	Checker-throated Antwren	Myrmotherula fulviventris	
+CTSP	Cinnamon-tailed Sparrow	Aimophila sumichrasti	
+CUBL	Cuban Blackbird	Dives atroviolaceus	
+CUBM	Cuban Macaw	Ara tricolor	
+CUBU	Cuban Bullfinch	Melopyrrha nigra	
+CUCR	Cuban Crow	Corvus nasicus	
+CUEM	Cuban Emerald	Chlorostilbon ricordii	
+CUGN	Cuban Gnatcatcher	Polioptila lembeyei	
+CUGR	Cuban Grassquit	Tiaris canorus	603.10000000000002
+CUMA	Cuban Martin	Progne cryptoleuca	611.10000000000002
+CUPE	Cuban Pewee	Contopus caribaeus	462.10000000000002
+CUPO	Cuban Pygmy-Owl	Glaucidium siju	
+CUSA	Curlew Sandpiper	Calidris ferruginea	244
+CUSO	Cuban Solitaire	Myadestes elisabeth	
+CUTO	Cuban Tody	Todus multicolor	
+CUTR	Cuban Trogon	Priotelus temnurus	
+CUVI	Cuban Vireo	Vireo gundlachii	
+CVSH	Cape Verde Shearwater	Calonectris edwardsii	
+CWWI	Chuck-will's-widow	Caprimulgus carolinensis	416
+DAPE	Dark Pewee	Contopus lugubris	
+DBCU	Dark-billed Cuckoo	Coccyzus melacoryphus	
+DBGR	Double-banded Graytail	Xenerpestes minlosi	
+DBJA	Dusky-backed Jacamar	Brachygalba salmoni	
+DCCO	Double-crested Cormorant	Phalacrocorax auritus	120
+DCFL	Dusky-capped Flycatcher	Myiarchus tuberculifer	455
+DEJU	Dark-eyed Junco	Junco hyemalis	
+DFTA	Dusky-faced Tanager	Mitrospingus cassinii	
+DICK	Dickcissel	Spiza americana	604
+DMAN	Dull-mantled Antbird	Myrmeciza laemosticta	
+DOVE	Dovekie	Alle alle	34
+DOWO	Downy Woodpecker	Picoides pubescens	394
+DSFL	Dark-sided Flycatcher	Muscicapa sibirica	
+DSTK	Double-striped Thick-knee	Burhinus bistriatus	
+DTKI	Double-toothed Kite	Harpagus bidentatus	
+DUAN	Dusky Antbird	Cercomacra tyrannina	
+DUFL	Dusky Flycatcher	Empidonax oberholseri	469
+DUGR	Dusky Grouse	Dendragapus obscurus	
+DUHU	Dusky Hummingbird	Cynanthus sordidus	
+DUNI	Dusky Nightjar	Caprimulgus saturatus	
+DUNL	Dunlin	Calidris alpina	243
+DUSS	Dusky Seaside-Sparrow	Ammodramus m. nigrescens	
+DUTH	Dusky Thrush	Turdus naumanni	761.39999999999998
+DUWA	Dusky Warbler	Phylloscopus fuscatus	747.39999999999998
+DWAN	Dot-winged Antwren	Microrhopias quixensis	
+DWJA	Dwarf Jay	Cyanolyca nana	
+DWVI	Dwarf Vireo	Vireo nelsoni	
+EABL	Eastern Bluebird	Sialia sialis	766
+EACT	Eastern Chat-Tanager	Calyptophilus frugivorus	
+EADO	Eared Dove	Zenaida auriculata	
+EAGR	Eared Grebe	Podiceps nigricollis	4
+EAKI	Eastern Kingbird	Tyrannus tyrannus	444
+EAME	Eastern Meadowlark	Sturnella magna	501
+EAPH	Eastern Phoebe	Sayornis phoebe	456
+EAPO	Eared Poorwill	Nyctiphrynus mcleodii	
+EAQU	Eared Quetzal	Euptilotis neoxenus	
+EASO	Eastern Screech-Owl	Megascops asio	373
+EATO	Eastern Towhee	Pipilo erythrophthalmus	587
+EAWP	Eastern Wood-Pewee	Contopus virens	461
+ECHU	Emerald-chinned Hummingbird	Abeillia abeillei	
+EGWT	Eurasian Green-winged Teal	Anas c. crecca	138
+EHOB	Eurasian Hobby	Falco subbuteo	
+EHOO	Eurasian Hoopoe	Upupa epops	
+ELEP	Elepaio	Chasiempis sandwichensis	770
+ELEU	Elegant Euphonia	Euphonia elegantissima	
+ELOW	Elf Owl	Micrathene whitneyi	381
+ELQU	Elegant Quail	Callipepla douglasii	107.8
+ELTE	Elegant Tern	Thallasseus elegans	66
+ELTR	Elegant Trogon	Trogon elegans	389
+EMGO	Emperor Goose	Chen canagica	176
+EMTA	Emerald Tanager	Tangara florida	
+EMTO	Emerald Toucanet	Aulacorhynchus prasinus	
+ERFL	Eye-ringed Flatbill	Rhynchocyclus brevirostris	
+ERFR	Erckel's Francolin	Francolinus erckelii	
+ESCU	Eskimo Curlew	Numenius borealis	266
+ETSP	Eurasian Tree Sparrow	Passer montanus	688.29999999999995
+EUBL	Eurasian Blackbird	Turdus merula	761.10000000000002
+EUBU	Eurasian Bullfinch	Pyrrhula pyrrhula	516
+EUCD	Eurasian Collared-Dove	Streptopelia decaocto	
+EUCO	Eurasian Coot	Fulica atra	220
+EUCU	Eurasian Curlew	Numenius arquata	264.10000000000002
+EUDO	Eurasian Dotterel	Charadrius morinellus	269.10000000000002
+EUFL	Euler's Flycatcher	Lathrotriccus euleri	
+EUGO	European Goldfinch	Carduelis carduelis	526.10000000000002
+EUGP	European Golden-Plover	Pluvialis apricaria	271
+EUJA	Eurasian Jackdaw	Corvus monedula	
+EUKE	Eurasian Kestrel	Falco tinnunculus	359.10000000000002
+EUOY	Eurasian Oystercatcher	Haematopus ostralegus	285
+EUSI	Eurasian Siskin	Carduelis spinus	
+EUSP	European Storm-Petrel	Hydrobates pelagicus	104
+EUST	European Starling	Sturnus vulgaris	493
+EUTD	European Turtle-Dove	Streptopelia turtur	
+EUWI	Eurasian Wigeon	Anas penelope	136
+EUWO	Eurasian Woodcock	Scolopax rusticola	227
+EUWR	Eurasian Wryneck	Jynx torquilla	
+EVGR	Evening Grosbeak	Coccothraustes vespertinus	514
+EWCS	Eastern White-crowned Sparrow	Zonotrichia l. leucophrys	554.10000000000002
+EWWA	Elfin-woods Warbler	Dendroica angelae	658.10000000000002
+EYTH	Eyebrowed Thrush	Turdus obscurus	
+EYWA	Eastern Yellow Wagtail	Motacilla tschutschensis	
+FAAN	Fasciated Antshrike	Cymbilaimus lineatus	
+FADU	Falcated Duck	Anas falcata	137.09999999999999
+FBAR	Fiery-billed Aracari	Pteroglossus frantzii	
+FBVI	Flat-billed Vireo	Vireo nanus	
+FCTA	Flame-colored Tanager	Piranga bidentata	607.10000000000002
+FECU	Far Eastern Curlew	Numenius madagascariensis	
+FEFL	Fernandina's Flicker	Colaptes fernandinae	
+FEHA	Ferruginous Hawk	Buteo regalis	348
+FEPO	Ferruginous Pygmy-Owl	Glaucidium brasilianum	380
+FFSH	Flesh-footed Shearwater	Puffinus carneipes	95.099999999999994
+FGSP	Florida Grasshopper Sparrow	Ammodramus s. floridanus	546.39999999999998
+FICR	Fish Crow	Corvus ossifragus	490
+FIEL	Fieldfare	Turdus pilaris	761.20000000000005
+FISP	Field Sparrow	Spizella pusilla	563
+FLFL	Flammulated Flycatcher	Deltarhynchus flammulatus	
+FLIN	Hybrid Flicker		412.5
+FLOW	Flammulated Owl	Otus flammeolus	374
+FLSJ	Florida Scrub-Jay	Aphelocoma coerulescens	479
+FOEL	Forest Elaenia	Myiopagis gaimardii	
+FOSP	Fox Sparrow	Passerella iliaca	585
+FOTE	Forster's Tern	Sterna forsteri	69
+FOTH	Forest Thrush	Cichlherminia lherminieri	
+FRGU	Franklin's Gull	Larus pipixcan	59
+FRTA	Flame-rumped Tanager	Ramphocelus flammigerus	
+FSSP	Five-striped Sparrow	Aimophila quinquestriata	574.20000000000005
+FTFL	Fork-tailed Flycatcher	Tyrannus savana	442
+FTHE	Fasciated Tiger-Heron	Tigrisoma fasciatum	
+FTHU	Fiery-throated Hummingbird	Panterpe insignis	
+FTHW	Flame-throated Warbler	Parula gutturalis	
+FTSP	Fork-tailed Storm-Petrel	Oceanodroma furcata	105
+FTSW	Fork-tailed Swift	Apus pacificus	424.10000000000002
+FTWA	Fan-tailed Warbler	Euthlypis lachrymosa	688.10000000000002
+FUOW	Fulvous Owl	Strix fulvescens	
+FUWD	Fulvous Whistling-Duck	Dendrocygna bicolor	178
+FVEU	Fulvous-vented Euphonia	Euphonia fulvicrissa	
+GABU	Greater Antillean Bullfinch	Loxigilla violacea	917.79999999999995
+GADW	Gadwall	Anas strepera	135
+GAEL	Greater Antillean Elaenia	Elaenia fallax	910.10000000000002
+GAEM	Garden Emerald	Chlorostilbon assimilis	
+GAGR	Greater Antillean Grackle	Quiscalus niger	513.10000000000002
+GAGT	Gray-and-gold Tanager	Tangara palmeri	
+GAKI	Greater Akialoa	Hemignathus ellisianus	
+GANI	Greater Antillean Nightjar	Caprimulgus cubanensis	
+GANT	Great Antshrike	Taraba major	
+GAOR	Greater Antillean Oriole	Icterus dominicensis	
+GAPE	Galapagos Petrel	Pterodroma phaeopygia	98.5
+GAQU	Gambel's Quail	Callipepla gambelii	295
+GARG	Garganey	Anas querquedula	139.19999999999999
+GARK	Green-and-rufous Kingfisher	Chloroceryle inda	
+GATH	Garnet-throated Hummingbird	Lamprolaima rhami	
+GBAN	Groove-billed Ani	Crotophaga sulcirostris	384
+GBAT	Gray-backed Tern	Onychoprion lunatus	
+GBBG	Great Black-backed Gull	Larus marinus	47
+GBCH	Golden-browed Chlorophonia	Chlorophonia callophrys	
+GBCR	Gray-breasted Crake	Laterallus exilis	
+GBFL	Golden-bellied Flycatcher	Myiodynastes hemichrysus	
+GBHE	Great Blue Heron	Ardea herodias	194
+GBMG	Green-breasted Mountain-gem	Lampornis sybillae	
+GBSP	Green-backed Sparrow	Arremonops chloronotus	853.79999999999995
+GBTE	Gull-billed Tern	Gelochelidon nilotica	63
+GBWA	Golden-browed Warbler	Basileuterus belli	
+GBWO	Gray-breasted Woodpecker	Melanerpes hypopolius	
+GBWR	Gray-barred Wren	Campylorhynchus megalopterus	
+GBWW	Gray-breasted Wood-Wren	Henicorhina leucophrys	
+GCAF	Gray-capped Flycatcher	Myiozetetes granadensis	
+GCAT	Grand Cayman Thrush	Turdus ravidus	
+GCBE	Gray-collared Becard	Pachyramphus major	
+GCBR	Green-crowned Brilliant	Heliodoxa jacula	
+GCBT	Gray-cheeked/Bicknell's Thrush	Catharus minimus x bickn.	757.89999999999998
+GCDO	Gray-chested Dove	Leptotila cassini	
+GCEM	Golden-crowned Emerald	Chlorostilbon auriceps	
+GCFL	Great Crested Flycatcher	Myiarchus crinitus	452
+GCHW	Golden-cheeked Woodpecker	Melanerpes chrysogenys	
+GCKI	Golden-crowned Kinglet	Regulus satrapa	748
+GCMA	Golden-collared Manakin	Manacus vitellinus	
+GCNU	Gray-cheeked Nunlet	Nonnula ruficapilla	
+GCPT	Gray-crowned Palm-Tanager	Phaenicophilus poliocephalus	
+GCRF	Gray-crowned Rosy-Finch	Leucosticte tephrocotis	524
+GCRS	Golden-crowned Spadebill	Platyrinchus coronatus	
+GCRW	Golden-crowned Warbler	Basileuterus culicivorus	692
+GCSP	Golden-crowned Sparrow	Zonotrichia atricapilla	557
+GCTE	Great Crested Tern	Thallasseus bergii	
+GCTH	Gray-cheeked Thrush	Catharus minimus	757
+GCWA	Golden-cheeked Warbler	Dendroica chrysoparia	666
+GCYE	Gray-crowned Yellowthroat	Geothlypis poliocephala	682.10000000000002
+GFGR	Golden-fronted Greenlet	Hylophilus aurantiifrons	
+GFHU	Green-fronted Hummingbird	Amazilia viridifrons	
+GFLA	Greater Flamingo	Phoenicopterus ruber	
+GFLY	Grenada Flycatcher	Myiarchus nugator	
+GFQD	Gray-fronted Quail-Dove	Geotrygon caniceps	
+GFRI	Great Frigatebird	Fregata minor	
+GFRL	Green-fronted Lancebill	Doryfera ludovicae	
+GFWO	Golden-fronted Woodpecker	Melanerpes aurifrons	410
+GGMA	Great Green Macaw	Ara ambiguus	
+GGOW	Great Gray Owl	Strix nebulosa	370
+GGWO	Golden-green Woodpecker	Piculus chrysochloros	
+GHCH	Gray-headed Chickadee	Poecile cincta	
+GHDO	Gray-headed Dove	Leptotila plumbeiceps	
+GHEC	Gray-headed Chachalaca	Ortalis cinereiceps	
+GHET	Gray-headed Tanager	Eucometis penicillata	
+GHGU	Gray-hooded Gull	Larus cirrocephalus	
+GHJU	Gray-headed Junco	Junco h. caniceps	569
+GHKI	Gray-headed Kite	Leptodon cayanensis	
+GHMA	Golden-headed Manakin	Pipra erythrocephala	
+GHOT	Golden-hooded Tanager	Tangara larvata	
+GHOW	Great Horned Owl	Bubo virginianus	375
+GHPI	Gray-headed Piprites	Piprites griseiceps	
+GHQU	Golden-headed Quetzal	Pharomachrus auriceps	
+GICO	Giant Cowbird	Molothrus oryzivorus	
+GIFL	Gilded Flicker	Colaptes chrysoides	414
+GIKI	Giant Kingbird	Tyrannus cubensis	
+GIWO	Gila Woodpecker	Melanerpes uropygialis	411
+GIWR	Giant Wren	Campylorhynchus chiapensis	
+GJAC	Great Jacamar	Jacamerops aureus	
+GKIN	Green Kingfisher	Chloroceryle americana	391
+GKIS	Great Kiskadee	Pitangus sulphuratus	449
+GLGU	Glaucous Gull	Larus hyperboreus	42
+GLIB	Glossy Ibis	Plegadis falcinellus	186
+GLTH	Glow-throated Hummingbird	Selasphorus ardens	
+GMAG	Green Mango	Anthracothorax viridis	
+GMAK	Green Manakin	Chloropipo holochlora	
+GNBM	Green-breasted Mango	Anthracothorax prevostii	
+GNCW	Green-crowned Woodnymph	Thalurania fannyi	
+GNLA	Greater Necklaced Laughingthrush	Garrulax pectoralis	
+GNTA	Green-naped Tanager	Tangara fucosa	
+GNWO	Golden-naped Woodpecker	Melanerpes chrysauchen	
+GNWR	Gray-necked Wood-Rail	Aramides cajanea	
+GOCF	Golden-crowned Flycatcher	Myiodynastes chrysocephalus	
+GOEA	Golden Eagle	Aquila chrysaetos	349
+GOSW	Golden Swallow	Tachycineta euchrysea	
+GOVI	Golden Vireo	Vireo hypochryseus	
+GOWO	Golden-olive Woodpecker	Piculus rubiginosus	
+GRAE	Gray Elaenia	Myiopagis caniceps	
+GRAF	Gray Francolin	Francolinus pondicerianus	
+GRAH	Gray Heron	Ardea cinerea	
+GRAJ	Gray Jay	Perisoreus canadensis	484
+GRAK	Gray Kingbird	Tyrannus dominicensis	445
+GRAM	Greater Amakihi	Hemignathus sagittirostris	
+GRAP	Gray Partridge	Perdix perdix	288.10000000000002
+GRAS	Grayish Saltator	Saltator coerulescens	
+GRAT	Gray Thrasher	Toxostoma cinereum	76.099999999999994
+GRAU	Great Auk	Pinguinus impennis	
+GRAW	Gray Wagtail	Motacilla cinerea	696.10000000000002
+GRBH	Great Black-Hawk	Buteogallus urubitinga	
+GRBU	Gray Bunting	Emberiza variabilis	535.29999999999995
+GRCA	Gray Catbird	Dumetella carolinensis	704
+GRCO	Great Cormorant	Phalacrocorax carbo	119
+GRCU	Great Curassow	Crax rubra	
+GRDO	Grenada Dove	Leptotila wellsi	
+GREG	Great Egret	Ardea alba	196
+GREH	Green Hermit	Phaethornis guy	
+GREJ	Green Jay	Cyanocorax yncas	483
+GREL	Greenish Elaenia	Myiopagis viridicata	471.10000000000002
+GREP	Green Parakeet	Aratinga holochlora	
+GRET	Green Thorntail	Discosura conversii	
+GRFH	Gray Frog-Hawk	Accipiter soloensis	
+GRFL	Gray Flycatcher	Empidonax wrightii	469.10000000000002
+GRGU	Gray Gull	Larus modestus	
+GRHA	Gray Hawk	Buteo nitida	346
+GRHE	Green Heron	Butorides virescens	201
+GRHO	Green Honeycreeper	Chlorophanes spiza	
+GRIB	Green Ibis	Mesembrinibis cayennensis	
+GRKF	Greater Koa-Finch	Rhodacanthis palmeri	
+GRKN	Great Knot	Calidris tenuirostris	234.09999999999999
+GRLC	Great Lizard-Cuckoo	Coccyzus merlini	
+GRNI	Gray Nightjar	Caprimulgus indicus	
+GRPC	Greater Prairie-Chicken	Tympanuchus cupido	305
+GRPE	Greater Pewee	Contopus pertinax	460
+GRPO	Great Potoo	Nyctibius grandis	
+GRPU	Greenish Puffleg	Haplophaedia aureliae	
+GRRO	Greater Roadrunner	Geococcyx californianus	385
+GRSA	Green Sandpiper	Tringa ochropus	
+GRSC	Greater Scaup	Aythya marila	148
+GRSF	Gray Silky-flycatcher	Ptilogonys cinereus	
+GRSG	Greater Sage-Grouse	Centrocercus urophasianus	309
+GRSH	Greater Shearwater	Puffinus gravis	89
+GRSK	Great Skua	Stercocarius skua	35
+GRSP	Grasshopper Sparrow	Ammodramus savannarum	546
+GRSV	Green Shrike-Vireo	Vireolanius pulchellus	
+GRSW	Gray-rumped Swift	Chaetura cinereiventris	
+GRTA	Greater Ani	Crotophaga major	
+GRTI	Great Tinamou	Tinamus major	
+GRTR	Gray Trembler	Cinclocerthia gutturalis	
+GRUP	Green-rumped Parrotlet	Forpus passerinus	
+GRVE	Green Violet-ear	Colibri thalassinus	427.10000000000002
+GRVI	Gray Vireo	Vireo vicinior	634
+GRWA	Grace's Warbler	Dendroica graciae	664
+GRYE	Greater Yellowlegs	Tringa melanoleuca	254
+GRYF	Grassland Yellow-Finch	Sicalis luteola	
+GSAP	Greater Sand-Plover	Charadrius leschenaultii	
+GSBF	Green-striped Brush-Finch	Buarremon virenticeps	
+GSFL	Gray-streaked Flycatcher	Muscicapa griseisticta	773
+GSGB	Greater Snow Goose Blue-morph	Chen c. atlantica	
+GSGI	Greater Snow Goose Intermediate-morph	Chen c. atlantica	
+GSGW	Greater Snow Goose White-morph	Chen c. atlantica	
+GSTS	Great Swallow-tailed Swift	Panyptila sanctihieronymi	
+GSWO	Great Spotted Woodpecker	Dendrocopos major	
+GTCA	Green-throated Carib	Eulampis holosericeus	436.30000000000001
+GTCH	Gray-throated Chat	Granatellus sallaei	
+GTGR	Great-tailed Grackle	Quiscalus mexicanus	512
+GTLE	Gray-throated Leaftosser	Sclerurus albigularis	
+GTMG	Green-throated Mountain-gem	Lampornis viridipallens	
+GTTA	Gray-tailed Tattler	Tringa brevipes	
+GTTO	Green-tailed Towhee	Pipilo chlorurus	590
+GTWA	Green-tailed Warbler	Microligea palustris	
+GUCA	Guadalupe Caracara	Caracara lutosa	363
+GUHA	Gundlach's Hawk	Accipiter gundlachi	
+GUSG	Gunnison Sage-Grouse	Centrocercus minimus	
+GUSP	Guadalupe Storm-Petrel	Oceanodroma macrodactyla	106.09999999999999
+GUWO	Guadeloupe Woodpecker	Melanerpes herminieri	
+GWCS	Gambel's White-crowned Sparrow	Zonotrichia l. gambelii	555
+GWFG	Greater White-fronted Goose	Anser albifrons	171
+GWGU	Glaucous-winged Gull	Larus glaucescens	44
+GWHE	Great White Heron	Ardea h. occidentalis	192
+GWPE	Great-winged Petrel	Pterodroma macroptera	
+GWTE	Green-winged Teal	Anas crecca	
+GWWA	Golden-winged Warbler	Vermivora chrysoptera	642
+GYBM	Gray-breasted Martin	Progne chalybea	611.20000000000005
+GYCW	Gray-crowned Woodpecker	Piculus auricularis	
+GYRF	Gyrfalcon	Falco rusticolus	354
+HAAM	Hawaii Amakihi	Hemignathus virens	782
+HACO	Hawaiian Coot	Fulica alai	220.09999999999999
+HADU	Harlequin Duck	Histrionicus histrionicus	155
+HAEA	Harpy Eagle	Harpia harpyja	
+HAFL	Hammond's Flycatcher	Empidonax hammondii	468
+HAGO	Hawaiian Goose	Branta sandvicensis	175.09999999999999
+HALH	Harlan's Hawk	Buteo j. harlani	338
+HAMA	Hawaii Mamo	Drepanis pacifica	
+HAMO	Hawaiian Moorhen	Gallinula c. sandvicensis	219.09999999999999
+HAOO	Hawaii Oo	Moho nobilis	
+HAPE	Hawaiian Petrel	Pterodroma sandwichensis	
+HARA	Hawaiian Rail	Porzana sandwichensis	
+HASH	Harris's Hawk	Parabuteo unicinctus	335
+HASP	Harris's Sparrow	Zonotrichia querula	553
+HAST	Hawaiian Stilt	Himantopus m. melanurus	226.09999999999999
+HAWD	Hawaiian Duck	Anas wyvilliana	132.09999999999999
+HAWF	Hawfinch	Coccothraustes coccothraustes	514.20000000000005
+HAWH	Hawaiian Hawk	Buteo solitarius	
+HAWO	Hairy Woodpecker	Picoides villosus	393
+HAWR	Happy Wren	Thryothorus felix	
+HBKI	Hook-billed Kite	Chondrohierax uncinatus	327.10000000000002
+HCRE	Hawaii Creeper	Oreomystis mana	791
+HCRO	Hawaiian Crow	Corvus hawaiiensis	489.19999999999999
+HDFL	Hammond's/Dusky Flycatcher	Empidonax hammondii/oberho.	
+HEEG	Heermann's Gull	Larus heermanni	57
+HELG	Helmeted Guineafowl	Numida meleagris	
+HEPE	Herald Petrel	Pterodroma arminjoniana	98.599999999999994
+HERG	Herring Gull	Larus argentatus	51
+HESP	Henslow's Sparrow	Ammodramus henslowii	547
+HETA	Hepatic Tanager	Piranga flava	609
+HETH	Hermit Thrush	Catharus guttatus	759
+HEWA	Hermit Warbler	Dendroica occidentalis	669
+HICR	Hispaniolan Crossbill	Loxia megaplaga	
+HIEM	Hispaniolan Emerald	Chlorostilbon swainsonii	
+HIGU	Highland Guan	Penelopina nigra	
+HILC	Hispaniolan Lizard-Cuckoo	Coccyzus longirostris	
+HIMY	Hill Myna	Gracula religiosa	
+HIPE	Hispaniolan Pewee	Contopus hispaniolensis	462.39999999999998
+HISN	Himalayan Snowcock	Tetraogallus himalayensis	
+HISP	Hispaniolan Spindalis	Spindalis dominicensis	
+HITI	Highland Tinamou	Nothocercus bonapartei	
+HITR	Hispaniolan Trogon	Priotelus roseigaster	
+HIWO	Hispaniolan Woodpecker	Melanerpes striatus	
+HOEM	Honduran Emerald	Amazilia luciae	
+HOFI	House Finch	Carpodacus mexicanus	519
+HOGR	Horned Grebe	Podiceps auritus	3
+HOGU	Horned Guan	Oreophasis derbianus	
+HOLA	Horned Lark	Eremophila alpestris	474
+HOME	Hooded Merganser	Lophodytes cucullatus	131
+HOOG	Hooded Grosbeak	Coccothraustes abeillei	
+HOOR	Hooded Oriole	Icterus cucullatus	505
+HOPU	Horned Puffin	Fratercula corniculata	14
+HORE	Hoary Redpoll	Carduelis hornemanni	527
+HOSP	House Sparrow	Passer domesticus	688.20000000000005
+HOWA	Hooded Warbler	Wilsonia citrina	684
+HOWO	Hoffmann's Woodpecker	Melanerpes hoffmannii	
+HOWR	House Wren	Troglodytes aedon	721
+HOYE	Hooded Yellowthroat	Geothlypis nelsoni	
+HPAK	Hispaniolan Parakeet	Aratinga chloroptera	
+HPAT	Hispaniolan Parrot	Amazona ventralis	
+HUGO	Hudsonian Godwit	Limosa haemastica	251
+HUSA	Humboldt's Sapphire	Hylocharis humboldtii	
+HUVI	Hutton's Vireo	Vireo huttoni	632
+HWAM	Hwamei	Garrulax canorus	
+IBIW	Ivory-billed Woodcreeper	Xiphorhynchus flavigaster	
+IBWO	Ivory-billed Woodpecker	Campephilus principalis	392
+ICGU	Iceland Gull	Larus glaucoides	43
+IIWI	Iiwi	Vestiaria coccinea	798
+IMAN	Immaculate Antbird	Myrmeciza immaculata	
+IMPA	Imperial Parrot	Amazona imperialis	
+IMWO	Imperial Woodpecker	Campephilus imperialis	
+INBU	Indigo Bunting	Passerina cyanea	598
+INDO	Inca Dove	Columbina inca	321
+INSI	Indian Silverbill	Lonchura malabarica	
+INTE	Inca Tern	Larosterna inca	
+IPSP	Ipswich Sparrow	Passerculus s. princeps	541
+ISSJ	Island Scrub-Jay	Aphelocoma insularis	481.10000000000002
+IVGU	Ivory Gull	Pagophila eburnea	39
+JABE	Jamaican Becard	Pachyramphus niger	
+JABI	Jabiru	Jabiru mycteria	189
+JABL	Jamaican Blackbird	Nesopsar nigerrimus	
+JABW	Japanese Bush-Warbler	Cettia diphone	746.10000000000002
+JACR	Jamaican Crow	Corvus jamaicensis	910.70000000000005
+JAEL	Jamaican Elaenia	Myiopagis cotta	910.20000000000005
+JAEU	Jamaican Euphonia	Euphonia jamaica	915.29999999999995
+JALC	Jamaican Lizard-Cuckoo	Coccyzus vetula	
+JAMA	Jamaican Mango	Anthracothorax mango	436.10000000000002
+JAMS	Jamaican Spindalis	Spindalis nigricephala	
+JAOR	Jamaican Oriole	Icterus leucopteryx	916.89999999999998
+JAOW	Jamaican Owl	Pseudoscops grammicus	
+JAPA	Jamaican Pauraque	Siphonorhis americana	
+JAPE	Jamaican Pewee	Contopus pallidus	462.30000000000001
+JAQU	Japanese Quail	Coturnix japonica	
+JASN	Jack Snipe	Lymnocryptes minimus	230.19999999999999
+JASP	Java Sparrow	Padda oryzivora	813
+JATO	Jamaican Tody	Todus todus	908.10000000000002
+JAVI	Jamaican Vireo	Vireo modestus	
+JAWE	Japanese White-eye	Zosterops japonicus	622.60000000000002
+JAWO	Jamaican Woodpecker	Melanerpes radiolatus	
+JEAN	Jet Antbird	Cercomacra nigricans	
+JFPE	Juan Fernandez Petrel	Pterodroma externa	
+JOPE	Jouanin's Petrel	Bulweria fallax	
+JUTI	Juniper Titmouse	Baeolophus ridgwayi	733.10000000000002
+KAAM	Kauai Amakihi	Hemignathuus kauaiensis	783
+KAKA	Kakawahie	Paroreomyza flammea	
+KAMA	Kamao	Myadestes myadestinus	754.29999999999995
+KAOO	Kauai Oo	Moho braccatus	622.10000000000002
+KAPH	Kalij Pheasant	Lophura leucomelanos	
+KBMO	Keel-billed Motmot	Electron carinatum	
+KBTO	Keel-billed Toucan	Ramphastos sulfuratus	
+KEGU	Kelp Gull	Larus dominicanus	
+KEPE	Kermadec Petrel	Pterodroma neglecta	853.60000000000002
+KEWA	Kentucky Warbler	Oporornis formosus	677
+KIEI	King Eider	Somateria spectabilis	162
+KILL	Killdeer	Charadrius vociferus	273
+KIMU	Kittlitz's Murrelet	Brachyramphus brevirostris	24
+KIOE	Kioea	Chaetoptila angustipluma	
+KIRA	King Rail	Rallus elegans	208
+KIVU	King Vulture	Sarcoramphus papa	
+KIWA	Kirtland's Warbler	Dendroica kirtlandii	670
+KOGR	Kona Grosbeak	Chloridops kona	
+KWQD	Key West Quail-Dove	Geotrygon chrysia	322
+LAAL	Laysan Albatross	Phoebastria immutabilis	82.099999999999994
+LABD	Labrador Duck	Camptorhynchus labradorius	156
+LAFA	Laughing Falcon	Herpetotheres cachinnans	
+LAFI	Laysan Finch	Telespiza cantans	774
+LAFL	Lesser Antillean Flycatcher	Myiarchus oberi	
+LAGO	Lawrence's Goldfinch	Carduelis lawrencei	531
+LAGU	Laughing Gull	Larus atricilla	58
+LAHO	Lanai Hookbill	Dysmorodrepanis munroi	
+LALO	Lapland Longspur	Calcarius lapponicus	536
+LAMO	Lanceolated Monklet	Micromonacha lanceolata	
+LANB	Lesser Antillean Bullfinch	Loxigilla noctis	
+LANW	Lanceolated Warbler	Locustella lanceolata	747.5
+LAPE	Lesser Antillean Pewee	Contopus latirostris	462.19999999999999
+LARA	Laysan Rail	Porzana palmeri	
+LARB	Lark Bunting	Calamospiza melanocorys	605
+LASA	Lesser Antillean Saltator	Saltator albicollis	
+LASP	Lark Sparrow	Chondestes grammacus	552
+LASW	Lesser Antillean Swift	Chaetura martinica	
+LATA	Lesser Antillean Tanager	Tangara cucullata	
+LATM	Lance-tailed Manakin	Chiroxiphia lanceolata	
+LAVW	Lavender Waxbill	Estrilda caerulescens	806
+LAWA	Lawrence's Warbler	Vermivora pinus x chrysopt.	641.29999999999995
+LAYD	Laysan Duck	Anas laysanensis	
+LAZB	Lazuli Bunting	Passerina amoena	599
+LBBG	Lesser Black-backed Gull	Larus fuscus	50
+LBCU	Long-billed Curlew	Numenius americanus	264
+LBDO	Long-billed Dowitcher	Limnodromus scolopaceus	232
+LBFH	Laysan X Black-foot. Albatross Hybrid	Phoebastria immut. X nigripes	
+LBGN	Long-billed Gnatwren	Ramphocaenus melanurus	
+LBHE	Little Blue Heron	Egretta caerulea	200
+LBIH	Long-billed Hermit	Phaethornis longirostris	
+LBMU	Long-billed Murrelet	Brachyramphus perdix	23.100000000000001
+LBSP	Large-billed Sparrow	Passerculus s. rostratus	544
+LBST	Long-billed Starthroat	Heliomaster longirostris	
+LBTE	Large-billed Tern	Phaetusa simplex	
+LBTH	Long-billed Thrasher	Toxostoma longirostre	706
+LBVI	Least Bell's Vireo	Vireo b. pusillus	633.39999999999998
+LBWO	Ladder-backed Woodpecker	Picoides scalaris	396
+LCGO	Large Canada Goose	Branta c. moffitti	172.30000000000001
+LCPA	Lilac-crowned Parrot	Amazona finschi	
+LCSP	Le Conte's Sparrow	Ammodramus leconteii	548
+LCTH	Le Conte's Thrasher	Toxostoma lecontei	711
+LEAK	Lesser Akialoa	Hemignathus obscurus	
+LEAU	Least Auklet	Aethia pusilla	20
+LEBI	Least Bittern	Ixobrychus exilis	191
+LEEL	Lesser Elaenia	Elaenia chiriquensis	
+LEFL	Least Flycatcher	Empidonax minimus	467
+LEFR	Lesser Frigatebird	Fregata ariel	128.19999999999999
+LEGC	Lesser Ground-Cuckoo	Morococcyx erythropygus	
+LEGO	Lesser Goldfinch	Carduelis psaltria	530
+LEGP	Lesser Golden-Plover	Pluvialis dominica/fulva	272.89999999999998
+LEGR	Least Grebe	Tachybaptus dominicus	5
+LEKF	Lesser Koa-Finch	Rhodacanthis flaviceps	
+LEKI	Lesser Kiskadee	Pitangus lictor	
+LENI	Lesser Nighthawk	Chordeiles acutipennis	421
+LEOW	Long-eared Owl	Asio otus	366
+LEPA	Least Pauraque	Siphonorhis brewsteri	
+LEPC	Lesser Prairie-Chicken	Tympanuchus pallidicinctus	307
+LERO	Lesser Roadrunner	Geococcyx velox	
+LESA	Least Sandpiper	Calidris minutilla	242
+LESC	Lesser Scaup	Aythya affinis	149
+LESG	Lesser Greenlet	Hylophilus decurtatus	
+LESP	Leach's Storm-Petrel	Oceanodroma leucorhoa	106
+LETE	Least Tern	Sternula antillarum	74
+LEWH	Lesser Whitethroat	Sylvia curruca	
+LEWO	Lewis's Woodpecker	Melanerpes lewis	408
+LEYE	Lesser Yellowlegs	Tringa flavipes	255
+LFFI	Large-footed Finch	Pezopetes capitalis	
+LIBH	Lazuli x Indigo Bunting Hybrid	Passerina amoena x cyanea	
+LIBU	Little Bunting	Emberiza pusilla	535.20000000000005
+LICU	Little Curlew	Numenius minutus	
+LIEG	Little Egret	Egretta garzetta	196.09999999999999
+LIFG	Lineated Foliage-gleaner	Syndactyla subalaris	
+LIGU	Little Gull	Larus minutus	60.100000000000001
+LIMP	Limpkin	Aramus guarauna	207
+LISH	Little Shearwater	Puffinus assimilis	92.099999999999994
+LISP	Lincoln's Sparrow	Melospiza lincolnii	583
+LIST	Little Stint	Calidris minuta	
+LITC	Little Cuckoo	Coccycua minuta	
+LITE	Little Tern	Sternula albifrons	74.099999999999994
+LITI	Little Tinamou	Crypturellus soui	
+LIWO	Lineated Woodpecker	Dryocopus lineatus	
+LMAL	Light-mantled Albatross	Phoebetria palpebrata	
+LOCO	Lovely Cotinga	Cotinga amabilis	
+LOKI	Loggerhead Kingbird	Tyrannus caudifasciatus	445.19999999999999
+LOSH	Loggerhead Shrike	Lanius ludovicianus	622
+LOTM	Long-tailed Manakin	Chiroxiphia linearis	
+LOWA	Louisiana Waterthrush	Seiurus motacilla	676
+LRPL	Little Ringed Plover	Charadrius dubius	276
+LSAP	Lesser Sand-Plover	Charadrius mongolus	279
+LSFL	La Sagra's Flycatcher	Myiarchus sagrae	
+LSGB	Lesser Snow Goose Blue-morph	Chen c. caerulescens	
+LSGI	Lesser Snow Goose Intermediate-morph	Chen c. caerulescens	
+LSGW	Lesser Snow Goose White-morph	Chen c. caerulescens	
+LSTA	Lemon-spectacled Tanager	Chlorothraupis olivacea	
+LSTH	La Selle Thrush	Turdus swalesi	
+LSTP	Least Storm-Petrel	Oceanodroma microsoma	103
+LSTS	Lesser Swallow-tailed Swift	Panyptila cayennensis	
+LTDU	Long-tailed Duck	Clangula hyemalis	154
+LTJA	Long-tailed Jaeger	Stercorarius longicaudus	38
+LTSA	Long-tailed Sabrewing	Campylopterus excellens	
+LTSF	Long-tailed Silky-flycatcher	Ptilogonys caudatus	
+LTST	Long-toed Stint	Calidris subminuta	242.09999999999999
+LTTR	Lattice-tailed Trogon	Trogon clathratus	
+LTTY	Long-tailed Tyrant	Colonia colonus	
+LTWO	Long-tailed Woodcreeper	Deconychura longicauda	
+LTWP	Long-tailed Wood-Partridge	Dendrortyx macroura	
+LUHU	Lucifer Hummingbird	Calothorax lucifer	437
+LUWA	Lucy's Warbler	Vermivora luciae	643
+LWFG	Lesser White-fronted Goose	Anser erythropus	171.30000000000001
+LYHV	Lesser Yellow-headed Vulture	Cathartes burrovianus	
+MAAL	Maui Alauahio	Paroreomyza montana	
+MABH	Mangrove Black-Hawk	Buteogallus subtilis	
+MABO	Masked Booby	Sula dactylatra	114
+MACU	Mangrove Cuckoo	Coccyzus minor	386
+MADU	Masked Duck	Nomonyx dominicus	168
+MAFR	Magnificent Frigatebird	Fregata magnificens	128
+MAGO	Marbled Godwit	Limosa fedoa	249
+MAHU	Magnificent Hummingbird	Eugenes fulgens	426
+MALL	Mallard	Anas platyrhynchos	132
+MAMU	Marbled Murrelet	Brachyramphus marmoratus	23
+MANH	Mangrove Hummingbird	Amazilia boucardi	
+MANS	Mangrove Swallow	Tachycineta albilinea	
+MAOR	Martinique Oriole	Icterus bonana	
+MAPA	Maui Parrotbill	Pseudonestor xanthophrys	781
+MASA	Marsh Sandpiper	Tringa stagnatilis	
+MASH	Manx Shearwater	Puffinus puffinus	90
+MASP	Markham's Storm-Petrel	Oceanodroma markhami	
+MASW	Mariana Swiftlet	Aerodramus bartschi	
+MATI	Masked Tityra	Tityra semifasciata	
+MAVI	Mangrove Vireo	Vireo pallens	
+MAWA	Magnolia Warbler	Dendroica magnolia	657
+MAWQ	Marbled Wood-Quail	Odontophorus gujanensis	
+MAWR	Marsh Wren	Cistothorus palustris	725
+MAYE	Masked Yellowthroat	Geothlypis aequinoctialis	
+MCGD	Maroon-chested Ground-Dove	Claravis mondetoura	
+MCGO	Minima Cackling Goose	Branta h. minima	
+MCLO	McCown's Longspur	Calcarius mccownii	539
+MCTY	Mouse-colored Tyrannulet	Phaeomyias murina	
+MEAP	Mealy Parrot	Amazona farinosa	
+MEBL	Melodious Blackbird	Dives dives	
+MECH	Mexican Chickadee	Poecile sclateri	737
+MEDU	Mexican Duck	Anas p. diazi	133.09999999999999
+MEGU	Mew Gull	Larus canus	55
+MEJA	Mexican Jay	Aphelocoma ultramarina	482
+MERL	Merlin	Falco columbarius	357
+MESH	Mexican Sheartail	Doricha eliza	
+MEWO	Mexican Woodnymph	Thalurania ridgwayi	
+MEXP	Mexican Parrotlet	Forpus cyanopygius	
+MFPA	Maroon-fronted Parrot	Rhynchopsitta terrisi	
+MGWA	MacGillivray's Warbler	Oporornis tolmiei	680
+MIGW	Middendorff's Grasshopper-Warbler	Locustella ochotensis	747.10000000000002
+MIKI	Mississippi Kite	Ictinia mississippiensis	329
+MILL	Millerbird	Acrocephalus familiaris	746.20000000000005
+MIMA	Military Macaw	Ara militaris	
+MIPA	Mitred Parakeet	Aratinga mitrata	
+MKBU	McKay's Bunting	Plectrophenax hyperboreus	535
+MOAN	Moustached Antwren	Myrmotherula ignota	
+MOBL	Mountain Bluebird	Sialia currucoides	768
+MOCH	Mountain Chickadee	Poecile gambeli	738
+MODO	Mourning Dove	Zenaida macroura	316
+MODU	Mottled Duck	Anas fulvigula	134
+MOEL	Mountain Elaenia	Elaenia frantzii	
+MONQ	Montezuma Quail	Cyrtonyx montezumae	296
+MOOW	Mottled Owl	Ciccaba virgata	
+MOPA	Monk Parakeet	Myiopsitta monachus	382.5
+MOPE	Mottled Petrel	Pterodroma inexpectata	99
+MOPL	Mountain Plover	Charadrius montanus	281
+MORI	Montserrat Oriole	Icterus oberi	
+MORO	Mountain Robin	Turdus plebejus	
+MOTO	Montezuma Oropendola	Psarocolius montezuma	
+MOTR	Mountain Trogon	Trogon mexicanus	
+MOUQ	Mountain Quail	Oreortyx pictus	292
+MOWA	Mourning Warbler	Oporornis philadelphia	679
+MTWO	Magenta-throated Woodstar	Calliphlox bryantae	
+MUDU	Muscovy Duck	Cairina moschata	102.09999999999999
+MUFL	Mugimaki Flycatcher	Ficedula mugimaki	
+MUPE	Murphy's Petrel	Pterodroma ultima	100.09999999999999
+MUSW	Mute Swan	Cygnus olor	178.19999999999999
+MWCS	Mountain White-crowned Sparrow	Zonotrichia l. oriantha	554.60000000000002
+MWYA	Unknown		
+MYMA	Unknown		
+MYWA	Myrtle Warbler	Dendroica c. coronata	655
+NABO	Nazca Booby	Sula granti	114.2
+NAFL	Narcissus Flycatcher	Ficedula narcissina	
+NAWA	Nashville Warbler	Vermivora ruficapilla	645
+NAWR	Nava's Wren	Hylorchilus navai	
+NBTO	Narrow-billed Tody	Todus angustirostris	
+NECO	Neotropic Cormorant	Phalacrocorax brasilianus	121
+NEGU	Nelsons Gull	Larus nelsoni	46
+NESH	Newell's Shearwater	Puffinus a. newelli	93.200000000000003
+NFIN	Northern Flicker Intergrade	Colaptes a.auratus x cafer	
+NHOW	Northern Hawk Owl	Surnia ulula	377
+NIFI	Nihoa Finch	Telespiza ultima	775
+NIGR	Nicaraguan Grackle	Quiscalus nicaraguensis	
+NISF	Nicaraguan Seed-Finch	Oryzoborus nuttingi	
+NIWR	Nightingale Wren	Microcerculus philomela	
+NOBE	Northern Bentbill	Oncostoma cinereigulare	
+NOBO	Northern Bobwhite	Colinus virginianus	289
+NOBT	Northern Beardless-Tyrannulet	Camptostoma imberbe	472
+NOBW	Northern Barred-Woodcreeper	Dendrocolaptes sanctithomae	
+NOCA	Northern Cardinal	Cardinalis cardinalis	593
+NOCR	Northwestern Crow	Corvus caurinus	489
+NOFL	Northern Flicker	Colaptes auratus	
+NOFU	Northern Fulmar	Fulmarus glacialis	86
+NOGA	Northern Gannet	Morus bassanus	117
+NOGO	Northern Goshawk	Accipiter gentilis	334
+NOHA	Northern Harrier	Circus cyaneus	331
+NOJA	Northern Jacana	Jacana spinosa	288
+NOLA	Northern Lapwing	Vanellus vanellus	269
+NOMO	Northern Mockingbird	Mimus polyglottos	703
+NOPA	Northern Parula	Parula americana	648
+NOPI	Northern Pintail	Anas acuta	143
+NOPO	Northern Pygmy-Owl	Glaucidium gnoma	379
+NORP	Northern Potoo	Nyctibius jamaicensis	
+NOSF	Northern Scrub-Flycatcher	Sublegatus arenarum	
+NOWA	Northern Waterthrush	Seiurus noveboracensis	675
+NOWH	Northern Wheatear	Oenanthe oenanthe	765
+NRWS	Northern Rough-winged Swallow	Stelgidopteryx serripennis	617
+NSHO	Northern Shoveler	Anas clypeata	142
+NSHR	Northern Shrike	Lanius excubitor	621
+NSTS	Nelson's Sharp-tailed Sparrow	Ammodramus nelsoni	549.10000000000002
+NSWO	Northern Saw-whet Owl	Aegolius acadicus	372
+NUFL	Nutting's Flycatcher	Myiarchus nuttingi	453.10000000000002
+NUKU	Nukupuu	Hemignathus lucidus	788
+NUMA	Nutmeg Mannikin	Lonchura punctulata	811
+NUWO	Nuttall's Woodpecker	Picoides nuttallii	397
+NWCS	Nuttall's White-crowned Sparrow	Zonotrichia l. nuttalli	556
+OAAL	Oahu Alauahio	Paroreomyza maculata	
+OAAM	Oahu Amakihi	Hemignathus flavus	782.10000000000002
+OAOO	Oahu Oo	Moho apicalis	
+OASP	Oaxaca Sparrow	Aimophila notosticta	
+OATI	Oak Titmouse	Baeolophus inornatus	733
+OBAE	Olive-backed Euphonia	Euphonia gouldi	
+OBAN	Ochre-breasted Antpitta	Grallaricula flavirostris	
+OBBU	Orange-breasted Bunting	Passerina leclancherii	
+OBEE	Orange-bellied Euphonia	Euphonia xanthogaster	
+OBFA	Orange-breasted Falcon	Falco deiroleucus	
+OBFL	Ochre-bellied Flycatcher	Mionectes oleagineus	
+OBNT	Orange-billed Nightingale-Thrush	Catharus aurantiirostris	742.39999999999998
+OBPI	Olive-backed Pipit	Anthus hodgsoni	
+OBQD	Olive-backed Quail-Dove	Geotrygon veraguensis	
+OBSP	Orange-billed Sparrow	Arremon aurantiirostris	
+OBTR	Orange-bellied Trogon	Trogon aurantiiventris	
+OCAN	Ocellated Antbird	Phaenostictus mcleannani	
+OCAW	Olive-capped Warbler	Dendroica pityophila	
+OCBE	One-colored Becard	Pachyramphus homochrous	
+OCCR	Ocellated Crake	Micropygia schomburgkii	
+OCHW	Orange-cheeked Waxbill	Estrilda melpoda	
+OCMA	Orange-collared Manakin	Manacus aurantiacus	
+OCOR	Orange-crowned Oriole	Icterus auricapillus	
+OCPA	Orange-chinned Parakeet	Brotogeris jugularis	
+OCPE	Ochraceous Pewee	Contopus ochraceus	
+OCPO	Ocellated Poorwill	Nyctiphrynus ocellatus	
+OCQU	Ocellated Quail	Cyrtonyx ocellatus	
+OCTH	Ocellated Thrasher	Toxostoma ocellatum	
+OCTU	Ocellated Turkey	Meleagris ocellata	
+OCWA	Orange-crowned Warbler	Vermivora celata	646
+OCWR	Ochraceous Wren	Troglodytes ochraceus	
+OCYE	Olive-crowned Yellowthroat	Geothlypis semiflava	
+OFPA	Orange-fronted Parakeet	Aratinga canicularis	381.30000000000001
+OILB	Oilbird	Steatornis caripensis	
+OLFL	Olivaceous Flatbill	Rhynchocyclus olivaceus	
+OLOM	Olomao	Myadestes lanaiensis	754.5
+OLPI	Olivaceous Piculet	Picumnus olivaceus	
+OLSP	Olive Sparrow	Arremonops rufivirgatus	586
+OLTA	Olive Tanager	Chlorothraupis carmioli	
+OLWA	Olive Warbler	Peucedramus taeniatus	651
+OLWO	Olivaceous Woodcreeper	Sittasomus griseicapillus	
+OMAO	Omao	Myadestes obscurus	754.10000000000002
+ORAN	Orangequit	Euneornis campestris	915.10000000000002
+ORAO	Orange Oriole	Icterus auratus	
+ORBI	Orange Bishop	Euplectes franciscanus	804.10000000000002
+ORCU	Oriental Cuckoo	Cuculus optatus	
+ORGO	Orinoco Goose	Neochen jubata	
+ORGR	Oriental Greenfinch	Carduelis sinica	526.20000000000005
+ORHE	Ornate Hawk-Eagle	Spizaetus ornatus	
+ORJU	Oregon Junco	Junco h. oregonus	567.10000000000002
+OROR	Orchard Oriole	Icterus spurius	506
+ORPR	Oriental Pratincole	Glareola maldivarum	
+ORSO	Oriental Scops-Owl	Otus sunia	
+ORTD	Oriental Turtle-Dove	Streptopelia orientalis	
+ORWA	Oriente Warbler	Teretistris fornsi	
+OSFL	Olive-sided Flycatcher	Contopus cooperi	459
+OSPR	Osprey	Pandion haliaetus	364
+OSTF	Olive-striped Flycatcher	Mionectes olivaceus	
+OTPA	Olive-throated Parakeet	Aratinga nana	
+OU  	Ou	Psittirostra psittacea	776
+OVEN	Ovenbird	Seiurus aurocapilla	674
+PAAN	Pacific Antwren	Myrmotherula pacifica	
+PAAU	Parakeet Auklet	Aethia psittacula	17
+PABU	Painted Bunting	Passerina ciris	601
+PACP	Pacific Parakeet	Aratinga strenua	
+PACR	Palm Crow	Corvus palmarum	
+PAFL	Panama Flycatcher	Myiarchus panamensis	
+PAGP	Pacific Golden-Plover	Pluvialis fulva	272.10000000000002
+PAIP	Painted Parakeet	Pyrrhura picta	
+PAJA	Parasitic Jaeger	Stercorarius parasiticus	37
+PALB	Pallas's Bunting	Emberiza pallasi	535.39999999999998
+PALI	Palila	Loxioides bailleui	777
+PALM	Palmchat	Dulus dominicus	
+PALO	Pacific Loon	Gavia pacifica	10
+PALT	Palm Tanager	Thraupis palmarum	
+PAPE	Parkinson's Petrel	Procellaria parkinsoni	
+PAPI	Passenger Pigeon	Ectopistes migratorius	877
+PARE	Painted Redstart	Myioborus pictus	688
+PASO	Pacific Screech-Owl	Megascops cooperi	
+PAST	Passerini's Tanager	Ramphocelus passerinii	
+PATY	Paltry Tyrannulet	Zimmerius vilissimus	
+PAWA	Palm Warbler	Dendroica palmarum	
+PBBA	Prong-billed Barbet	Semnornis frantzii	
+PBCR	Paint-billed Crake	Neocrex erythrops	
+PBCU	Pearly-breasted Cuckoo	Coccyzus euleri	
+PBFI	Peg-billed Finch	Acanthidops bairdii	
+PBGD	Plain-breasted Ground-Dove	Columbina minuta	
+PBGR	Pied-billed Grebe	Podilymbus podiceps	6
+PBHE	Pale-bellied Hermit	Phaethornis anthophilus	
+PBIW	Pale-billed Woodpecker	Campephilus guatemalensis	
+PBJA	Purplish-backed Jay	Cyanocorax beecheii	
+PBQD	Purplish-backed Quail-Dove	Geotrygon lawrencii	
+PBRW	Plain-brown Woodcreeper	Dendrocincla fuliginosa	
+PBSP	Pale-breasted Spinetail	Synallaxis albescens	
+PCFA	Purple-crowned Fairy	Heliothryx barroti	
+PCST	Plain-capped Starthroat	Heliomaster constantii	426.10000000000002
+PCTA	Plain-colored Tanager	Tangara inornata	
+PEBO	Peruvian Booby	Sula variegata	
+PECO	Pelagic Cormorant	Phalacrocorax pelagicus	123
+PEFA	Peregrine Falcon	Falco peregrinus	356
+PEKI	Pearl Kite	Gampsonyx swainsonii	
+PEPI	Pechora Pipit	Anthus gustavi	698.10000000000002
+PEPT	Pale-eyed Pygmy-Tyrant	Lophotriccus pilaris	
+PESA	Pectoral Sandpiper	Calidris melanotos	239
+PETH	Pearly-eyed Thrasher	Margarops fuscatus	711.10000000000002
+PFGO	Pink-footed Goose	Anser brachyrhynchus	171.19999999999999
+PFSH	Pink-footed Shearwater	Puffinus creatopus	91
+PHAI	Phainopepla	Phainopepla nitens	620
+PHCU	Pheasant Cuckoo	Dromococcyx phasianellus	
+PHVI	Philadelphia Vireo	Vireo philadelphicus	626
+PHWA	Pink-headed Warbler	Ergaticus versicolor	
+PIBI	Pinnated Bittern	Botaurus pinnatus	
+PIBT	Pirre Bush-Tanager	Chlorospingus inornatus	
+PIBU	Pine Bunting	Emberiza leucocephalos	
+PIFL	Piratic Flycatcher	Legatus leucophaius	
+PIGR	Pine Grosbeak	Pinicola enucleator	515
+PIGU	Pigeon Guillemot	Cepphus columba	29
+PIJA	Pinyon Jay	Gymnorhinus cyanocephalus	492
+PILF	Pileated Flycatcher	Xenotriccus mexicanus	
+PINF	Pine Flycatcher	Empidonax affinis	
+PIPL	Piping Plover	Charadrius melodus	277
+PIPU	Pied Puffbird	Notharchus tectus	
+PIRW	Pirre Warbler	Basileuterus ignotus	
+PISI	Pine Siskin	Carduelis pinus	533
+PIWA	Pine Warbler	Dendroica pinus	671
+PIWO	Pileated Woodpecker	Dryocopus pileatus	405
+PIWT	Pied Water-Tyrant	Fluvicola pica	
+PLAN	Plain Antvireo	Dysithamnus mentalis	
+PLCH	Plain Chachalaca	Ortalis vetula	311
+PLHA	Plumbeous Hawk	Leucopternis plumbeus	
+PLKI	Plumbeous Kite	Ictinia plumbea	
+PLPI	Plain Pigeon	Patagioenas inornata	312.10000000000002
+PLTI	Plain Titmouse	Parus inornatus	733.20000000000005
+PLVI	Plumbeous Vireo	Vireo plumbeus	629.10000000000002
+PLWA	Plumbeous Warbler	Dendroica plumbea	
+PLWR	Plain Wren	Thryothorus modestus	
+PLXE	Plain Xenops	Xenops minutus	
+POJA	Pomarine Jaeger	Stercorarius pomarinus	36
+POUL	Poo-uli	Melamprosops phaeosoma	804
+PRAW	Prairie Warbler	Dendroica discolor	673
+PRBU	Puerto Rican Bullfinch	Loxigilla portoricensis	
+PREM	Puerto Rican Emerald	Chlorostilbon maugaeus	440.19999999999999
+PRFA	Prairie Falcon	Falco mexicanus	355
+PRFL	Puerto Rican Flycatcher	Myiarchus antillarum	455.19999999999999
+PRGS	Prevost's Ground-Sparrow	Melozone biarcuata	
+PRLC	Puerto Rican Lizard-Cuckoo	Coccyzus vieilloti	385.10000000000002
+PRNI	Puerto Rican Nightjar	Caprimulgus noctitherus	417.10000000000002
+PROW	Prothonotary Warbler	Protonotaria citrea	637
+PRPA	Puerto Rican Parrot	Amazona vittata	382.80000000000001
+PRSO	Puerto Rican Screech-Owl	Megascops nudipes	373.39999999999998
+PRSP	Puerto Rican Spindalis	Spindalis portoricensis	
+PRTA	Puerto Rican Tanager	Nesospingus speculiferus	610.20000000000005
+PRTO	Puerto Rican Tody	Todus mexicanus	391.19999999999999
+PRVI	Puerto Rican Vireo	Vireo latimeri	633.10000000000002
+PRWO	Puerto Rican Woodpecker	Melanerpes portoricensis	407.10000000000002
+PSFL	Pacific-slope Flycatcher	Empidonax difficilis	464.10000000000002
+PSWS	Puget Sound White-crowned Sparrow	Zonotrichia l. pugetensis	554.70000000000005
+PTCA	Purple-throated Carib	Eulampis jugularis	
+PTFR	Purple-throated Fruitcrow	Querula purpurata	
+PTMG	Purple-throated Mountain-gem	Lampornis calolaemus	
+PTSN	Pin-tailed Snipe	Gallinago stenura	
+PTWH	Pin-tailed Whydah	Vidua macroura	813.10000000000002
+PTWO	Purple-throated Woodstar	Calliphlox mitchellii	
+PUAI	Puaiohi	Myadestes palmeri	754.20000000000005
+PUFI	Purple Finch	Carpodacus purpureus	517
+PUGA	Purple Gallinule	Porphyrio martinica	218
+PUHO	Purple Honeycreeper	Cyanerpes caeruleus	
+PUMA	Purple Martin	Progne subis	611
+PUSA	Purple Sandpiper	Calidris maritima	235
+PVPI	Pale-vented Pigeon	Patagioenas cayennensis	
+PVTH	Pale-vented Thrush	Turdus obsoletus	
+PYNU	Pygmy Nuthatch	Sitta pygmaea	730
+PYRR	Pyrrhuloxia	Cardinalis sinuatus	594
+RAGM	Red-and-green Macaw	Ara chloropterus	
+RAWW	Rufous-and-white Wren	Thryothorus rufalbus	
+RAZO	Razorbill	Alca torda	32
+RBAN	Rufous-breasted Antthrush	Formicarius rufipectus	
+RBAS	Rusty-backed Spinetail	Cranioleuca vulpina	
+RBBL	Red-breasted Blackbird	Sturnella militaris	
+RBBU	Rose-bellied Bunting	Passerina rositae	
+RBEC	Rufous-bellied Chachalaca	Ortalis wagleri	
+RBGR	Rose-breasted Grosbeak	Pheucticus ludovicianus	595
+RBGU	Ring-billed Gull	Larus delawarensis	54
+RBHE	Rufous-breasted Hermit	Glaucis hirsutus	
+RBLE	Red-billed Leiothrix	Leiothrix lutea	742.10000000000002
+RBME	Red-breasted Merganser	Mergus serrator	130
+RBNU	Red-breasted Nuthatch	Sitta canadensis	728
+RBPE	Rufous-browed Peppershrike	Cyclarhis gujanensis	
+RBPI	Red-billed Pigeon	Patagioenas flavirostris	313
+RBRC	Red-breasted Chat	Granatellus venustus	
+RBRO	Rufous-backed Robin	Turdus rufopalliatus	762.20000000000005
+RBRS	Rufous-breasted Spinetail	Synallaxis erythrothorax	
+RBSA	Red-breasted Sapsucker	Sphyrapicus ruber	403
+RBSC	Red-billed Scythebill	Campylorhamphus trochilirostris	
+RBSE	Ruddy-breasted Seedeater	Sporophila minuta	
+RBSW	Rufous-breasted Wren	Thryothorus rutilus	
+RBTR	Red-billed Tropicbird	Phaethon aethereus	113
+RBTY	Rufous-browed Tyrannulet	Phylloscartes superciliaris	
+RBWO	Red-bellied Woodpecker	Melanerpes carolinus	409
+RBWW	Rufous-browed Wren	Troglodytes rufociliatus	
+RCAT	Red-crowned Ant-Tanager	Habia rubica	
+RCBF	Rufous-capped Brush-Finch	Atlapetes pileatus	
+RCCA	Red-crested Cardinal	Paroaria coronata	592.20000000000005
+RCCO	Red-cheeked Cordonbleu	Uraeginthus bengalus	805
+RCGS	Rusty-crowned Ground-Sparrow	Melozone kieneri	
+RCHU	Rufous-cheeked Hummingbird	Goethalsia bella	
+RCKI	Ruby-crowned Kinglet	Regulus calendula	749
+RCMA	Red-capped Manakin	Pipra mentalis	
+RCMO	Russet-crowned Motmot	Momotus mexicanus	
+RCNT	Ruddy-capped Nightingale-Thrush	Catharus frantzii	
+RCOS	Rufous-collared Sparrow	Zonotrichia capensis	
+RCPA	Red-crowned Parrot	Amazona viridigenalis	382.60000000000002
+RCQD	Russet-crowned Quail-Dove	Geotrygon goldmani	
+RCRC	Rufous-crested Coquette	Lophornis delattrei	
+RCRO	Rufous-collared Robin	Turdus rufitorques	
+RCRW	Red-crowned Woodpecker	Melanerpes rubricapillus	
+RCSP	Rufous-crowned Sparrow	Aimophila ruficeps	580
+RCWA	Rufous-capped Warbler	Basileuterus rufifrons	692.10000000000002
+RCWO	Red-cockaded Woodpecker	Picoides borealis	395
+RDTF	Ruddy-tailed Flycatcher	Terenotriccus erythrurus	
+REAV	Red Avadavat	Amandava amandava	809
+REBU	Reed Bunting	Emberiza schoeniclus	535.5
+RECR	Red Crossbill	Loxia curvirostra	521
+REDH	Redhead	Aythya americana	146
+REDW	Redwing	Turdus iliacus	760
+REEG	Reddish Egret	Egretta rufescens	198
+REJU	Red Junglefowl	Gallus gallus	
+REKN	Red Knot	Calidris canutus	234
+REPH	Red Phalarope	Phalaropus fulicarius	222
+REQU	Resplendent Quetzal	Pharomachrus mocinno	
+RESI	Red Siskin	Carduelis cucullata	532.10000000000002
+REVI	Red-eyed Vireo	Vireo olivaceus	624
+REWA	Red Warbler	Ergaticus ruber	
+RFBL	Red-flanked Bluetail	Tarsiger cyanurus	764.20000000000005
+RFBO	Red-footed Booby	Sula sula	116
+RFCO	Red-faced Cormorant	Phalacrocorax urile	124
+RFPA	Red-fronted Parrotlet	Touit costaricensis	
+RFSP	Red-faced Spinetail	Cranioleuca erythrops	
+RFTF	Rufous-tailed Flycatcher	Myiarchus validus	
+RFWA	Red-faced Warbler	Cardellina rubrifrons	690
+RHAU	Rhinoceros Auklet	Cerorhinca monocerata	15
+RHBA	Red-headed Barbet	Eubucco bourcierii	
+RHTA	Red-headed Tanager	Piranga erythrocephala	
+RHWO	Red-headed Woodpecker	Melanerpes erythrocephalus	406
+RIHA	Ridgway's Hawk	Buteo ridgwayi	
+RIKI	Ringed Kingfisher	Ceryle torquatus	390.10000000000002
+RIWR	Riverside Wren	Thryothorus semibadius	
+RLHA	Rough-legged Hawk	Buteo lagopus	347
+RLHO	Red-legged Honeycreeper	Cyanerpes cyaneus	
+RLKI	Red-legged Kittiwake	Rissa brevirostris	41
+RLPA	Red-lored Parrot	Amazona autumnalis	
+RLTH	Red-legged Thrush	Turdus plumbeus	762.29999999999995
+RLTY	Rough-legged Tyrannulet	Phyllomyias burmeisteri	
+RMFL	Rusty-margined Flycatcher	Myiozetetes cayanensis	
+RMOT	Rufous Motmot	Baryphthengus martii	
+RMOU	Rufous Mourner	Rhytipterna holerythra	
+RNAW	Rufous-naped Wren	Campylorhynchus rufinucha	
+RNDU	Ring-necked Duck	Aythya collaris	150
+RNEP	Ring-necked Pheasant	Phasianus colchicus	309.10000000000002
+RNGR	Red-necked Grebe	Podiceps grisegena	2
+RNPA	Red-necked Parrot	Amazona arausiaca	
+RNPH	Red-necked Phalarope	Phalaropus lobatus	223
+RNSA	Red-naped Sapsucker	Sphyrapicus nuchalis	402.10000000000002
+RNST	Red-necked Stint	Calidris ruficollis	242.19999999999999
+RODO	Rock Dove	Columba livia	
+ROFL	Royal Flycatcher	Onychorhynchus coronatus	
+ROGO	Ross's Goose	Chen rossii	170
+ROGU	Ross's Gull	Rhodostethia rosea	61
+ROHA	Roadside Hawk	Buteo magnirostris	343.10000000000002
+ROPI	Rock Pigeon	Columba livia	313.10000000000002
+ROPT	Rock Ptarmigan	Lagopus muta	302
+ROSA	Rock Sandpiper	Calidris ptilocnemis	236
+ROSP	Roseate Spoonbill	Platalea ajaja	183
+ROST	Roseate Tern	Sterna dougallii	72
+ROTT	Rosy Thrush-Tanager	Rhodinocichla rosea	
+ROWR	Rock Wren	Salpinctes obsoletus	715
+ROYT	Royal Tern	Thallasseus maximus	65
+RRAN	Rufous-rumped Antwren	Terenura callinota	
+RRPA	Rose-ringed Parakeet	Psittacula krameri	
+RRSH	Red-naped X Red-breasted Saps. Hybrid	Sphyrapicus nuchalis x ruber	
+RRWO	Red-rumped Woodpecker	Veniliornis kirkii	
+RSBL	Red-shouldered Blackbird	Agelaius assimilis	
+RSFL	Red-shafted Flicker	Colaptes a. cafer	413
+RSHA	Red-shouldered Hawk	Buteo lineatus	339
+RSTO	Rufous-sided Towhee	Pipilo maculatus/erythr.	
+RTAH	Rufous-tailed Hummingbird	Amazilia tzacatl	
+RTAP	Ring-tailed Pigeon	Patagioenas caribaea	
+RTAT	Red-throated Ant-Tanager	Habia fuscicauda	
+RTBE	Rose-throated Becard	Pachyramphus aglaiae	441.10000000000002
+RTCA	Red-throated Caracara	Ibycter americanus	
+RTHA	Red-tailed Hawk	Buteo jamaicensis	337
+RTHE	Rufescent Tiger-Heron	Tigrisoma lineatum	
+RTHU	Ruby-throated Hummingbird	Archilochus colubris	428
+RTJA	Rufous-tailed Jacamar	Galbula ruficauda	
+RTLO	Red-throated Loon	Gavia stellata	11
+RTOH	Ruby-topaz Hummingbird	Chrysolampis mosquitus	
+RTPI	Red-throated Pipit	Anthus cervinus	699
+RTSO	Rufous-throated Solitaire	Myadestes genibarbis	912.70000000000005
+RTTA	Rose-throated Tanager	Piranga roseogularis	
+RTTR	Red-tailed Tropicbird	Phaethon rubricauda	113.09999999999999
+RUAN	Russet Antshrike	Thamnistes anabatinus	
+RUBL	Rusty Blackbird	Euphagus carolinus	509
+RUBU	Rustic Bunting	Emberiza rustica	535.10000000000002
+RUCR	Ruddy Crake	Laterallus ruber	
+RUDP	Ruddy Pigeon	Patagioenas subvinacea	
+RUDU	Ruddy Duck	Oxyura jamaicensis	167
+RUFF	Ruff	Philomachus pugnax	260
+RUFG	Ruddy Foliage-gleaner	Automolus rubiginosus	
+RUFH	Rufous-tailed Hummingbird	Amazilia tzacatl	438
+RUFP	Rufous Piha	Lipaugus unirufus	
+RUGD	Ruddy Ground-Dove	Columbina talpacoti	320.10000000000002
+RUGR	Ruffed Grouse	Bonasa umbellus	300
+RUHU	Rufous Hummingbird	Selasphorus rufus	433
+RUNI	Rufous Nightjar	Caprimulgus rufus	
+RUNT	Russet Nightingale-Thrush	Catharus occidentalis	
+RUQD	Ruddy Quail-Dove	Geotrygon montana	322.10000000000002
+RUSA	Rufous Sabrewing	Campylopterus rufus	
+RUSP	Rusty Sparrow	Aimophila rufescens	
+RUTR	Ruddy Treerunner	Margarornis rubiginosus	
+RUTU	Ruddy Turnstone	Arenaria interpres	283
+RUWO	Ruddy Woodcreeper	Dendrocincla homochroa	
+RUWR	Rufous-necked Wood-Rail	Aramides axillaris	
+RVBU	Red-vented Bulbul	Pycnonotus cafer	726.20000000000005
+RVCH	Rufous-vented Chachalaca	Ortalis ruficauda	
+RVGC	Rufous-vented Ground-Cuckoo	Neomorphus geoffroyi	
+RWAN	Rufous-winged Antwren	Herpsilochmus rufimarginatus	
+RWBL	Red-winged Blackbird	Agelaius phoeniceus	498
+RWBU	Red-whiskered Bulbul	Pycnonotus jocosus	726.10000000000002
+RWSP	Rufous-winged Sparrow	Aimophila carpalis	579
+RWTA	Rufous-winged Tanager	Tangara lavinia	
+RWWO	Rufous-winged Woodpecker	Piculus simplex	
+SACR	Sandhill Crane	Grus canadensis	206
+SAFI	Saffron Finch	Sicalis flaveola	586.10000000000002
+SAFL	Sad Flycatcher	Myiarchus barbirostris	909.39999999999998
+SAGS	Sage Sparrow	Amphispiza belli	574
+SAGU	Sabine's Gull	Xema sabini	62
+SAHA	Savanna Hawk	Buteogallus meridionalis	
+SAND	Sanderling	Calidris alba	248
+SAPA	Sapayoa	Sapayoa aenigma	
+SAPH	Say's Phoebe	Sayornis saya	457
+SATE	Sandwich Tern	Thallasseus sandvicensis	67
+SATH	Sage Thrasher	Oreoscoptes montanus	702
+SAVI	St. Andrew Vireo	Vireo caribaeus	
+SAVS	Savannah Sparrow	Passerculus sandwichensis	542
+SBAN	Smooth-billed Ani	Crotophaga ani	383
+SBAO	Streak-backed Oriole	Icterus pustulatus	505.10000000000002
+SBCU	Slender-billed Curlew	Numenius tenuirostris	
+SBDO	Short-billed Dowitcher	Limnodromus griseus	231
+SBDU	Spot-billed Duck	Anas poecilorhyncha	
+SBEH	Snowy-bellied Hummingbird	Amazilia edward	
+SBFF	Slaty-backed Forest-Falcon	Micrastur mirandollei	
+SBFL	Sulphur-bellied Flycatcher	Myiodynastes luteiventris	451
+SBGR	Slender-billed Grackle	Quiscalus palustris	
+SBGU	Slaty-backed Gull	Larus schistisagus	48
+SBJA	San Blas Jay	Cyanocorax sanblasianus	483.10000000000002
+SBKI	Slender-billed Kite	Rostrhamus hamatus	
+SBNT	Slaty-backed Nightingale-Thrush	Catharus fuscater	
+SBOH	Spotted x Barred Owl Hybrid	Strix occiden. x varia	368.60000000000002
+SBPI	Short-billed Pigeon	Patagioenas nigrirostris	
+SBRH	Scaly-breasted Hummingbird	Phaeochroa cuvieri	
+SBRO	Siberian Blue Robin	Luscinia cyane	
+SBSA	Spoon-billed Sandpiper	Eurynorhynchus pygmeus	245
+SBSW	Spot-breasted Wren	Thryothorus maculipectus	
+SBTA	Scarlet-browed Tanager	Heterospingus xanthopygius	
+SBTH	Scaly-breasted Thrasher	Allenia fuscus	
+SBTI	Slaty-breasted Tinamou	Crypturellus boucardi	
+SBTR	Streak-breasted Treehunter	Thripadectes rufobrunneus	
+SBWP	Spot-breasted Woodpecker	Colaptes punctigula	
+SCAA	Scaled Antpitta	Grallaria guatimalensis	
+SCBA	Spot-crowned Barbet	Capito maculicoronatus	
+SCBH	Scaled and Northern Bobwhite Hybrid		
+SCBT	Sooty-capped Bush-Tanager	Chlorospingus pileatus	
+SCBW	Scaly-breasted Wren	Microcerculus marginatus	
+SCCO	Short-crested Coquette	Lophornis brachylophus	
+SCGO	Small Canada Goose	Branta c. parvipes	172.90000000000001
+SCHA	Streak-chested Antpitta	Hylopezus perspicillatus	
+SCHT	Spangle-cheeked Tanager	Tangara dowii	
+SCHU	Scintillant Hummingbird	Selasphorus scintilla	
+SCHW	Stripe-cheeked Woodpecker	Piculus callopterus	
+SCIB	Scarlet Ibis	Eudocimus ruber	185
+SCJU	Slate-colored Junco	Junco h. hyemalis	567
+SCMA	Scarlet Macaw	Ara macao	
+SCOG	Slate-colored Grosbeak	Saltator grossus	
+SCOR	Scott's Oriole	Icterus parisorum	504
+SCOW	Screech Owl		
+SCPI	Scaled Pigeon	Patagioenas speciosa	
+SCPT	Scale-crested Pygmy-Tyrant	Lophotriccus pileatus	
+SCQU	Scaled Quail	Callipepla squamata	293
+SCRG	Scrub Greenlet	Hylophilus flavipes	
+SCRW	Spot-crowned Woodcreeper	Lepidocolaptes affinis	
+SCSE	Slate-colored Seedeater	Sporophila schistacea	
+SCSO	Slate-colored Solitaire	Myadestes unicolor	
+SCTA	Scarlet Tanager	Piranga olivacea	608
+SECF	Sepia-capped Flycatcher	Leptopogon amaurocephalus	
+SEHA	Semiplumbeous Hawk	Leucopternis semiplumbeus	
+SEOW	Short-eared Owl	Asio flammeus	367
+SEPL	Semipalmated Plover	Charadrius semipalmatus	274
+SESA	Semipalmated Sandpiper	Calidris pusilla	246
+SESP	Seaside Sparrow	Ammodramus maritimus	550
+SEUP	Scrub Euphonia	Euphonia affinis	
+SEWA	Semper's Warbler	Leucopeza semperi	
+SEWR	Sedge Wren	Cistothorus platensis	724
+SFAN	Spiny-faced Antshrike	Xenornis setifrons	
+SFFI	Sooty-faced Finch	Lysurus crassirostris	
+SFSW	Spot-fronted Swift	Cypseloides cherriei	
+SFTA	Silvery-fronted Tapaculo	Scytalopus argentifrons	
+SGBW	Straight-billed Woodcreeper	Xiphorhynchus picus	
+SHAL	Shy Albatross	Thalassarche cauta	82.299999999999997
+SHAR	Sharpbill	Oxyruncus cristatus	
+SHBF	Stripe-headed Brush-Finch	Buarremon torquatus	
+SHCO	Shiny Cowbird	Molothrus bonariensis	496.10000000000002
+SHHO	Shining Honeycreeper	Cyanerpes lucidus	
+SHOS	Short-tailed Shearwater	Puffinus tenuirostris	96
+SHPA	Saffron-headed Parrot	Pionopsitta pyrilia	
+SHSP	Stripe-headed Sparrow	Aimophila ruficauda	
+SHTF	Slate-headed Tody-Flycatcher	Poecilotriccus sylvia	
+SHTH	Sapphire-throated Hummingbird	Lepidopyga coeruleogularis	
+SHTN	Short-tailed Nighthawk	Lurocalis semitorquatus	
+SHTY	Sooty-headed Tyrannulet	Phyllomyias griseiceps	
+SHWO	Streak-headed Woodcreeper	Lepidocolaptes souleyetii	
+SHWR	Sooty-headed Wren	Thryothorus spadix	910.89999999999998
+SIAC	Siberian Accentor	Prunella montanella	749.10000000000002
+SIBW	Stripe-breasted Wren	Thryothorus thoracicus	
+SICR	Sinaloa Crow	Corvus sinaloae	
+SIMA	Sinaloa Martin	Progne sinaloae	
+SIQU	Singing Quail	Dactylortyx thoracicus	
+SIRU	Siberian Rubythroat	Luscinia calliope	764.10000000000002
+SIRY	Sirystes	Sirystes sibilator	
+SIWR	Sinaloa Wren	Thryothorus sinaloa	
+SKLA	Sky Lark	Alauda arvensis	473
+SLAN	Slaty Antwren	Myrmotherula schisticolor	
+SLBF	St. Lucia Black Finch	Melanospiza richardsoni	
+SLCF	Slaty-capped Flycatcher	Leptopogon superciliaris	
+SLFI	Slaty Finch	Haplospiza rustica	
+SLFL	Slaty Flowerpiercer	Diglossa plumbea	
+SLOR	St. Lucia Oriole	Icterus laudabilis	
+SLPA	St. Lucia Parrot	Amazona versicolor	
+SLSH	Slender Sheartail	Doricha enicura	
+SLSP	Slaty Spinetail	Synallaxis brachyura	
+SLVI	Slaty Vireo	Vireo brevipennis	
+SLWA	St. Lucia Warbler	Dendroica delicata	
+SMBW	Smoky-brown Woodpecker	Veniliornis fumigatus	
+SMEW	Smew	Mergellus albellus	131.09999999999999
+SMLO	Smith's Longspur	Calcarius pictus	537
+SMSP	Sierra Madre Sparrow	Xenospiza baileyi	
+SNBU	Snow Bunting	Plectrophenax nivalis	534
+SNBW	Strong-billed Woodcreeper	Xiphocolaptes promeropirhynchus	
+SNCO	Snowy Cotinga	Carpodectes nitidus	
+SNEG	Snowy Egret	Egretta thula	197
+SNGO	Snow Goose	Chen caerulescens	169
+SNKI	Snail Kite	Rostrhamus sociabilis	330
+SNOC	Snowcap	Microchera albocoronata	
+SNOW	Snowy Owl	Bubo scandiacus	376
+SNPI	Scaly-naped Pigeon	Patagioenas squamosa	314.10000000000002
+SNPL	Snowy Plover	Charadrius alexandrinus	278
+SOBE	Southern Bentbill	Oncostoma olivaceum	
+SOBT	Southern Beardless-Tyrannulet	Camptostoma obsoletum	
+SOCW	Socorro Wren	Troglodytes sissonii	
+SODO	Socorro Dove	Zenaida graysoni	
+SOEA	Solitary Eagle	Harpyhaliaetus solitarius	
+SOFL	Social Flycatcher	Myiozetetes similis	450
+SOGR	Sooty Grouse	Dendragapus fuliginosus	
+SOHW	Southern House-Wren	Troglodytes a. musculus	
+SOLA	Southern Lapwing	Vanellus chilensis	
+SOMA	Southern Martin	Progne elegans	
+SOMO	Socorro Mockingbird	Mimus graysoni	
+SONW	Song Wren	Cyphorhinus phaeocephalus	
+SORA	Sora	Porzana carolina	214
+SORO	Sooty Robin	Turdus nigrescens	
+SOSA	Solitary Sandpiper	Tringa solitaria	256
+SOSH	Sooty Shearwater	Puffinus griseus	95
+SOSP	Song Sparrow	Melospiza melodia	581
+SOTE	Sooty Tern	Onychoprion fuscatus	75
+SOVI	Solitary Vireo	Vireo (sp)	629.89999999999998
+SPAN	Spotted Antbird	Hylophylax naevioides	
+SPBA	Spotted Barbtail	Premnoplex brunnescens	
+SPCA	Spot-crowned Antvireo	Dysithamnus puncticeps	
+SPCE	Spot-crowned Euphonia	Euphonia imitans	
+SPCR	Spotted Crake	Porzana porzana	213
+SPDO	Spotted Dove	Streptopelia chinensis	315.10000000000002
+SPEI	Spectacled Eider	Somateria fischeri	158
+SPEO	Spectacled Owl	Pulsatrix perspicillata	
+SPFL	Spotted Flycatcher	Muscicapa striata	
+SPGR	Spruce Grouse	Falcipennis canadensis	298
+SPMO	Speckled Mourner	Laniocera rufescens	
+SPNT	Spotted Nightingale-Thrush	Catharus dryas	
+SPOO	Spot-breasted Oriole	Icterus pectoralis	503.19999999999999
+SPOW	Spotted Owl	Strix occidentalis	369
+SPPA	Spectacled Parrotlet	Forpus conspicillatus	
+SPPI	Sprague's Pipit	Anthus spragueii	700
+SPQU	Spotted Wood-Quail	Odontophorus guttatus	
+SPRA	Spotted Rail	Pardirallus maculatus	
+SPRE	Spotted Redshank	Tringa erythropus	253.19999999999999
+SPSA	Spotted Sandpiper	Actitis macularius	263
+SPSK	South Polar Skua	Stercocarius maccormicki	35.200000000000003
+SPTA	Speckled Tanager	Tangara guttata	
+SPTH	Sparkling-tailed Hummingbird	Tilmatura dupontii	
+SPTN	Spot-tailed Nightjar	Caprimulgus maculicaudus	
+SPTO	Spotted Towhee	Pipilo maculatus	588
+SPTS	Sharp-tailed Sandpiper	Calidris acuminata	238
+SPWO	Spotted Woodcreeper	Xiphorhynchus erythropygius	
+SPWR	Spotted Wren	Campylorhynchus gularis	
+SQCU	Squirrel Cuckoo	Piaya cayana	
+SRCA	Scarlet-rumped Cacique	Cacicus uropygialis	
+SRFL	Sulphur-rumped Flycatcher	Myiobius sulphureipygius	
+SRGH	Snow X Ross's Goose Hybrid	Chen caerul. x rossii	170.30000000000001
+SRTA	Sulphur-rumped Tanager	Heterospingus rubrifrons	
+SRTH	Stripe-throated Hermit	Phaethornis striigularis	
+SRWS	Southern Rough-winged Swallow	Stelgidopteryx ruficollis	
+SSAL	Streaked Saltator	Saltator striatipectus	
+SSHA	Sharp-shinned Hawk	Accipiter striatus	332
+SSPA	Striped Sparrow	Oriturus superciliosus	
+SSTS	Saltmarsh Sharp-tailed Sparrow	Ammodramus caudacutus	549
+STAL	Short-tailed Albatross	Phoebastria albatrus	82
+STCA	Streak-crowned Antvireo	Dysithamnus striaticeps	
+STCU	Striped Cuckoo	Tapera naevia	
+STCW	Strickland's Woodpecker	Picoides stricklandi	
+STDA	Scarlet-thighed Dacnis	Dacnis venusta	
+STEI	Steller's Eider	Polysticta stelleri	157
+STFG	Scaly-throated Foliage-gleaner	Anabacerthia variegaticeps	
+STFL	Scissor-tailed Flycatcher	Tyrannus forficatus	443
+STGN	Slate-throated Gnatcatcher	Polioptila schistaceigula	
+STGR	Sharp-tailed Grouse	Tympanuchus phasianellus	308
+STHA	Short-tailed Hawk	Buteo brachyurus	344
+STHJ	Silvery-throated Jay	Cyanolyca argentigula	
+STJA	Steller's Jay	Cyanocitta stelleri	478
+STKI	Swallow-tailed Kite	Elanoides forficatus	327
+STLE	Scaly-throated Leaftosser	Sclerurus guatemalensis	
+STLH	Stripe-tailed Hummingbird	Eupherusa eximia	
+STOF	Stolid Flycatcher	Myiarchus stolidus	455.30000000000001
+STON	Stonechat	Saxicola torquatus	
+STOW	Stygian Owl	Asio stygius	
+STPE	Stejneger's Petrel	Pterodroma longirostris	
+STPW	Striped Woodhaunter	Hyloctistes subulatus	
+STRE	Slate-throated Redstart	Myioborus miniatus	
+STRF	Streaked Flycatcher	Myiodynastes maculatus	
+STRH	Striated Heron	Butorides striata	
+STRM	Streamertail	Trochilus polytmus	
+STRO	Striped Owl	Pseudoscops clamator	
+STRS	Streaked Shearwater	Calonectris leucomelas	88.099999999999994
+STSA	Stilt Sandpiper	Calidris himantopus	233
+STSE	Steller's Sea-Eagle	Haliaeetus pelagicus	352.10000000000002
+STSP	Sharp-tailed Sparrow	Ammodramus nelsoni/caudacut.	549.89999999999998
+STST	Sharp-tailed Streamcreeper	Lochmias nematura	
+STSW	Short-tailed Swift	Chaetura brachyura	423.10000000000002
+STTA	Silver-throated Tanager	Tangara icterocephala	
+STTR	Slaty-tailed Trogon	Trogon massena	
+STTS	Stub-tailed Spadebill	Platyrinchus cancrominus	
+STWR	Stripe-throated Wren	Thryothorus leucopogon	
+STXE	Streaked Xenops	Xenops rutilans	
+SUNB	Sunbittern	Eurypyga helias	
+SUNG	Sungrebe	Heliornis fulica	
+SURF	Surfbird	Aphriza virgata	282
+SUSC	Surf Scoter	Melanitta perspicillata	166
+SUTA	Summer Tanager	Piranga rubra	610
+SUWA	Sutton's Warbler	Parula amer. X Dendroica domi.	663.39999999999998
+SUWR	Sumichrast's Wren	Hylorchilus sumichrasti	
+SVHU	Steely-vented Hummingbird	Amazilia saucerrottei	
+SVPA	St. Vincent Parrot	Amazona guildingii	
+SWFG	Slaty-winged Foliage-gleaner	Philydor fuscipenne	
+SWFL	Southwestern Willow Flycatcher	Empidonax t. extimus	466.39999999999998
+SWHA	Swainson's Hawk	Buteo swainsoni	342
+SWPA	Sulphur-winged Parakeet	Pyrrhura hoffmanni	
+SWSP	Swamp Sparrow	Melospiza georgiana	584
+SWTA	Swallow Tanager	Tersina viridis	
+SWTH	Swainson's Thrush	Catharus ustulatus	758
+SWWA	Swainson's Warbler	Limnothlypis swainsonii	638
+TABT	Tacarcuna Bush-Tanager	Chlorospingus tacarcunae	
+TACR	Tamaulipas Crow	Corvus imparatus	489.10000000000002
+TAFL	Taiga Flycatcher	Ficedula albicilla	
+TAPO	Tamaulipas Pygmy-Owl	Glaucidium sanchezi	
+TATA	Tacarcuna Tapaculo	Scytalopus panamensis	
+TAWQ	Tacarcuna Wood-Quail	Odontophorus dialeucos	
+TBEU	Thick-billed Euphonia	Euphonia laniirostris	
+TBFL	Tawny-breasted Flycatcher	Myiobius villosus	
+TBHU	Tooth-billed Hummingbird	Androdon aequatorialis	
+TBKI	Thick-billed Kingbird	Tyrannus crassirostris	445.10000000000002
+TBMO	Turquoise-browed Motmot	Eumomota superciliosa	
+TBMU	Thick-billed Murre	Uria lomvia	31
+TBPA	Thick-billed Parrot	Rhynchopsitta pachyrhyncha	382.10000000000002
+TBSF	Thick-billed Seed-Finch	Oryzoborus funereus	
+TBVI	Thick-billed Vireo	Vireo crassirostris	913
+TCEU	Tawny-capped Euphonia	Euphonia anneae	
+TCFL	Tawny-chested Flycatcher	Aphanotriccus capitalis	
+TCGR	Tawny-crowned Greenlet	Hylophilus ochraceiceps	
+TCNI	Tawny-collared Nightjar	Caprimulgus salvini	
+TCTA	Tawny-crested Tanager	Tachyphonus delatrii	
+TESA	Terek Sandpiper	Xenus cinereus	
+TEST	Temminck's Stint	Calidris temminckii	
+TEWA	Tennessee Warbler	Vermivora peregrina	647
+TFGN	Tawny-faced Gnatwren	Microbates cinereiventris	
+TFQU	Tawny-faced Quail	Rhynchortyx cinctus	
+THAN	Thicket Antpitta	Hylopezus dives	
+THGU	Thayer's Gull	Larus thayeri	43.100000000000001
+THTI	Thicket Tinamou	Crypturellus cinnamomeus	
+THWH	Townsend's x Hermit Warbler Hybrid	Dendroica townsendi x occi.	668.60000000000002
+TIHA	Tiny Hawk	Accipiter superciliosus	
+TIWR	Timberline Wren	Thryorchilus browni	
+TLSC	Thrush-like Schiffornis	Schiffornis turdina	
+TOMO	Tody Motmot	Hylomanes momotula	
+TOSH	Townsend's Shearwater	Puffinus auricularis	93.099999999999994
+TOSO	Townsend's Solitaire	Myadestes townsendi	754
+TOTY	Torrent Tyrannulet	Serpophaga cinerea	
+TOWA	Townsend's Warbler	Dendroica townsendi	668
+TRBL	Tricolored Blackbird	Agelaius tricolor	500
+TRES	Tree Swallow	Tachycineta bicolor	614
+TRFL	Traill's Flycatcher	Empidonax alnorum/traillii	466.89999999999998
+TRGN	Tropical Gnatcatcher	Polioptila plumbea	
+TRHE	Tricolored Heron	Egretta tricolor	199
+TRKI	Tropical Kingbird	Tyrannus melancholicus	446
+TRMO	Tropical Mockingbird	Mimus gilvus	703.20000000000005
+TRMU	Tricolored Munia	Lonchura malacca	
+TROU	Troupial	Icterus icterus	916.60000000000002
+TRPA	Tropical Parula	Parula pitiayumi	649
+TRPE	Tropical Pewee	Contopus cinereus	
+TRPI	Tree Pipit	Anthus trivialis	
+TRSO	Tropical Screech-Owl	Megascops choliba	
+TRSP	Tristram's Storm-Petrel	Oceanodroma tristrami	107.09999999999999
+TRUS	Trumpeter Swan	Cygnus buccinator	181
+TSBL	Tawny-shouldered Blackbird	Agelaius humeralis	500.10000000000002
+TSWA	Three-striped Warbler	Basileuterus tristriatus	
+TTLE	Tawny-throated Leaftosser	Sclerurus mexicanus	
+TUCO	Turquoise Cotinga	Cotinga ridgwayi	
+TUDU	Tufted Duck	Aythya fuligula	149.09999999999999
+TUFL	Tufted Flycatcher	Mitrephanes phaeocercus	
+TUJA	Tufted Jay	Cyanocorax dickeyi	
+TUPU	Tufted Puffin	Fratercula cirrhata	12
+TUQD	Tuxtla Quail-Dove	Geotrygon carrikeri	
+TUSW	Tundra Swan	Cygnus columbianus	
+TUTI	Tufted Titmouse	Baeolophus bicolor	731
+TUVU	Turkey Vulture	Cathartes aura	325
+TWBE	Three-wattled Bellbird	Procnias tricarunculatus	
+TWWO	Tawny-winged Woodcreeper	Dendrocincla anabatina	
+UAHA	Unidentified Accipiter Hawk	Accipiter (sp)	
+UAIH	Ula-ai-hawane	Ciridops anna	
+UCFI	Unidentified Carpodacus Finch	Carpodacus (sp)	
+UEFL	Unidentified Empidonax Flycatcher	Empidonax (sp)	
+ULGU	Unidentified Larus Gull	Larus (sp)	
+UNBI	Unidentified Bird	"Aves (gen, sp)"	
+UNBL	Unidentified Blackbird	"Icteridae (gen, sp)"	
+UNCR	Unidentified Crow	Corvus (sp)	
+UNDO	Unidentified Dowitcher	Limnodromus sp.	
+UNDU	Unidentified Duck	"Anatinae (gen, sp)"	
+UNFL	Unidentified Flycatcher	"Tyrannidae (gen, sp)"	
+UNHA	Unidentified Hawk	"Accipitridae (gen, sp)"	
+UNHU	Unidentified Hummingbird	"Trochilidae (gen, sp)"	440.89999999999998
+UNIC	Uniform Crake	Amaurolimnas concolor	
+UNJA	Unicolored Jay	Aphelocoma unicolor	
+UNOW	Unidentified Owl	"Strigidae (gen, sp)"	
+UNSA	Unidentified Sapsucker	Sphyrapicus (sp)	
+UNSP	Unidentified Sparrow	"Emberizidae (gen, sp)"	
+UNSW	Unidentified Swallow	"Hirundidae (gen, sp)"	
+UNTE	Unidentified Teal	Anas (sp)	140.09999999999999
+UNTH	Unidentified Thrush	"Turdidae (gen, sp)"	
+UNWA	Unidentified Warbler	"Parulidae (gen, sp)"	
+UNWO	Unidentified Woodpecker	"Picadae (gen, sp)"	
+UNWR	Unidentified Wren	"Troglodytidae (gen, sp)"	
+UPCH	Unidentified Poecile Chickadee	Poecile (sp)	
+UPSA	Upland Sandpiper	Bartramia longicauda	261
+UPTA	Unidentified Piranga Tanager	Piranga (sp)	
+USHU	Unidentified Selasphorus Hummingbird	Selaphorus (sp)	
+USWO	Unspotted Saw-whet Owl	Aegolius ridgwayi	
+VABU	Varied Bunting	Passerina versicolor	600
+VAFL	Variegated Flycatcher	Empidonomus varius	
+VASE	Variable Seedeater	Sporophila americana	
+VASO	Varied Solitaire	Myadestes coloratus	
+VASW	Vaux's Swift	Chaetura vauxi	424
+VATH	Varied Thrush	Ixoreus naevius	763
+VBHU	Violet-bellied Hummingbird	Damophila julie	
+VCAH	Violet-capped Hummingbird	Goldmania violiceps	
+VCHU	Violet-crowned Hummingbird	Amazilia violiceps	439.10000000000002
+VCWO	Violet-crowned Woodnymph	Thalurania colombica	
+VEER	Veery	Catharus fuscescens	756
+VEFL	Vermilion Flycatcher	Pyrocephalus rubinus	471
+VEHU	Vervain Hummingbird	Mellisuga minima	
+VEMA	Veraguan Mango	Anthracothorax veraguensis	
+VERD	Verdin	Auriparus flaviceps	746
+VESO	Vermiculated Screech-Owl	Megascops guatemalae	
+VESP	Vesper Sparrow	Pooecetes gramineus	540
+VGSW	Violet-green Swallow	Tachycineta thalassina	615
+VHHU	Violet-headed Hummingbird	Klais guimeti	
+VIDA	Viridian Dacnis	Dacnis viguieri	
+VIQD	Violaceous Quail-Dove	Geotrygon violacea	
+VIRA	Virginia Rail	Rallus limicola	212
+VISA	Violet Sabrewing	Campylopterus hemileucurus	
+VITR	Violaceous Trogon	Trogon violaceus	
+VITW	Vitelline Warbler	Dendroica vitellina	
+VIWA	Virginia's Warbler	Vermivora virginiae	644
+VIWE	Village Weaver	Ploceus cucullatus	
+VOHU	Volcano Hummingbird	Selasphorus flammula	
+VOJU	Volcano Junco	Junco vulcani	
+WAAL	Wandering Albatross	Diomedea exulans	81.099999999999994
+WAJA	Wattled Jacana	Jacana jacana	
+WATA	Wandering Tattler	Tringa incana	259
+WAVI	Warbling Vireo	Vireo gilvus	627
+WBAA	Wing-banded Antbird	Myrmornis torquata	
+WBCH	White-bellied Chachalaca	Ortalis leucogastra	
+WBEA	White-bellied Antbird	Myrmeciza longipes	
+WBEM	White-bellied Emerald	Amazilia candida	
+WBMG	White-bellied Mountain-gem	Lampornis hemileucus	
+WBNU	White-breasted Nuthatch	Sitta carolinensis	727
+WBTH	White-breasted Thrasher	Ramphocinclus brachyurus	
+WBWO	Wedge-billed Woodcreeper	Glyphorynchus spirurus	
+WBWR	White-bellied Wren	Uropsila leucogastra	
+WBWW	White-breasted Wood-Wren	Henicorhina leucosticta	
+WCCO	White-crested Coquette	Lophornis adorabilis	
+WCHP	White-cheeked Pintail	Anas bahamensis	143.09999999999999
+WCHS	White-chinned Swift	Cypseloides cryptus	
+WCOM	White-collared Manakin	Manacus candei	
+WCPA	White-crowned Parrot	Pionus senilis	
+WCPI	White-crowned Pigeon	Patagioenas leucocephala	314
+WCRM	White-crowned Manakin	Pipra pipra	
+WCSE	White-collared Seedeater	Sporophila torqueola	602
+WCSP	White-crowned Sparrow	Zonotrichia leucophrys	554
+WCSW	White-collared Swift	Streptoprocne zonaris	
+WCTH	White-chinned Thrush	Turdus aurantius	912.20000000000005
+WEBL	Western Bluebird	Sialia mexicana	767
+WECO	White-eared Conebill	Conirostrum leucogenys	
+WECT	Western Chat-Tanager	Calyptophilus tertius	
+WEFL	Western Flycatcher	Empidonax difficilis/occid.	464.89999999999998
+WEGR	Western Grebe	Aechmophorus occidentalis	1
+WEGS	White-eared Ground-Sparrow	Melozone leucotis	
+WEGU	Western Gull	Larus occidentalis	49
+WEHU	White-eared Hummingbird	Hylocharis leucotis	440.10000000000002
+WEKI	Western Kingbird	Tyrannus verticalis	447
+WEME	Western Meadowlark	Sturnella neglecta	501.10000000000002
+WERH	Western Reef-Heron	Egretta gularis	
+WESA	Western Sandpiper	Calidris mauri	247
+WESJ	Western Scrub-Jay	Aphelocoma californica	481
+WESO	Western Screech-Owl	Megascops kennicottii	373.19999999999999
+WESP	Western Spindalis	Spindalis zena	
+WETA	Western Tanager	Piranga ludoviciana	607
+WETH	White-eyed Thrush	Turdus jamaicensis	912
+WEVI	White-eyed Vireo	Vireo griseus	631
+WEWA	Worm-eating Warbler	Helmitheros vermivorum	639
+WEWP	Western Wood-Pewee	Contopus sordidulus	462
+WFAQ	White-faced Quail-Dove	Geotrygon albifacies	
+WFIB	White-faced Ibis	Plegadis chihi	187
+WFLA	White-flanked Antwren	Myrmotherula axillaris	
+WFNU	White-fronted Nunbird	Monasa morphoeus	
+WFPA	White-fronted Parrot	Amazona albifrons	
+WFRA	White-fringed Antwren	Formicivora grisea	
+WFRQ	White-fronted Quail-Dove	Geotrygon leucometopia	
+WFSP	White-faced Storm-Petrel	Pelagodroma marina	111
+WFSW	White-fronted Swift	Cypseloides storeri	
+WFWD	White-faced Whistling-Duck	Dendrocygna viduata	178.09999999999999
+WGSH	White-cr. X Golden-cr. Sparrow Hybrid	Zonotrichia leuc. x atricap.	
+WGWH	Western X Glaucous-winged Gull Hybrid	Larus occid. x gluaces.	
+WHAU	Whiskered Auklet	Aethia pygmaea	19
+WHCR	Whooping Crane	Grus americana	204
+WHHA	White Hawk	Leucopternis albicollis	
+WHIB	White Ibis	Eudocimus albus	184
+WHIM	Whimbrel	Numenius phaeopus	265
+WHIW	Whistling Warbler	Catharopeza bishopi	
+WHOS	Whooper Swan	Cygnus cygnus	179
+WHSO	Whiskered Screech-Owl	Megascops trichopsis	373.10000000000002
+WHST	Whiskered Tern	Chlidonias hybrida	
+WHSW	Whistling Swan	Cygnus c. columbianus	180
+WHTT	White Tern	Gygis alba	
+WHWA	White Wagtail	Motacilla alba	694
+WHWO	White-headed Woodpecker	Picoides albolarvatus	399
+WHWR	White-headed Wren	Campylorhynchus albobrunneus	
+WIFL	Willow Flycatcher	Empidonax traillii	466
+WILL	Willet	Tringa semipalmata	258
+WILW	Willow Warbler	Phylloscopus trochilus	
+WIPH	Wilson's Phalarope	Phalaropus tricolor	224
+WIPL	Wilson's Plover	Charadrius wilsonia	280
+WIPT	Willow Ptarmigan	Lagopus lagopus	
+WISA	Williamson's Sapsucker	Sphyrapicus thyroideus	404
+WISN	Wilson's Snipe	Gallinago delicata	230
+WISP	Wilson's Storm-Petrel	Oceanites oceanicus	109
+WITU	Wild Turkey	Meleagris gallopavo	310
+WIWA	Wilson's Warbler	Wilsonia pusilla	685
+WIWD	West Indian Whistling-Duck	Dendrocygna arborea	177.09999999999999
+WIWO	West Indian Woodpecker	Melanerpes superciliaris	409.19999999999999
+WIWR	Winter Wren	Troglodytes troglodytes	722
+WLGN	White-lored Gnatcatcher	Polioptila albiloris	
+WLTA	White-lined Tanager	Tachyphonus rufus	
+WMBH	Western X Mountain Bluebird Hybrid	Sialia mex. x currucoid.	
+WMCH	West Mexican Chachalaca	Ortalis poliocephala	
+WMHA	Western Marsh Harrier	Circus aeruginosus	
+WNBF	White-naped Brush-Finch	Atlapetes albinucha	
+WNCR	White-necked Crow	Corvus leucognaphalus	487.10000000000002
+WNJA	White-necked Jacobin	Florisuga mellivora	
+WNPE	White-necked Petrel	Pterodroma cervicalis	
+WNPU	White-necked Puffbird	Notharchus macrorhynchos	
+WNSW	White-naped Swift	Streptoprocne semicollaris	
+WODU	Wood Duck	Aix sponsa	144
+WOSA	Wood Sandpiper	Tringa glareola	
+WOSP	Worthen's Sparrow	Spizella wortheni	564
+WOST	Wood Stork	Mycteria americana	188
+WOTH	Wood Thrush	Hylocichla mustelina	755
+WOWA	Wood Warbler	Phylloscopus sibilatrix	747.29999999999995
+WPWA	Western Palm Warbler	Dendroica p. palmarum	672
+WPWI	Whip-poor-will	Caprimulgus vociferus	417
+WREN	Wrentit	Chamaea fasciata	742
+WRET	Wrenthrush	Zeledonia coronata	
+WRFL	White-ringed Flycatcher	Conopias albovittatus	
+WRMA	White-ruffed Manakin	Corapipo altera	
+WRSA	White-rumped Sandpiper	Calidris fuscicollis	240
+WRSH	White-rumped Shama	Copsychus malabaricus	769
+WRSP	Wedge-rumped Storm-Petrel	Oceanodroma tethys	106.3
+WSLA	Western Slaty-Antshrike	Thamnophilus atrinucha	
+WSTA	White-shouldered Tanager	Tachyphonus luctuosus	
+WSWO	White-striped Woodcreeper	Lepidocolaptes leucogaster	
+WTAH	White-tailed Hummingbird	Eupherusa poliocerca	
+WTAT	White-tailed Trogon	Trogon viridis	
+WTCR	White-throated Crake	Laterallus albigularis	
+WTDO	White-tipped Dove	Leptotila verreauxi	318
+WTEA	White-tailed Eagle	Haliaeetus albicilla	
+WTEM	White-tailed Emerald	Elvira chionura	
+WTFL	White-throated Flycatcher	Empidonax albigularis	
+WTGF	Wedge-tailed Grass-Finch	Emberizoides herbicola	
+WTGS	White-thighed Swallow	Neochelidon tibialis	
+WTHA	White-tailed Hawk	Buteo albicaudatus	341
+WTHH	Wine-throated Hummingbird	Atthis ellioti	
+WTJA	White-throated Jay	Cyanolyca mirabilis	
+WTKI	White-tailed Kite	Elanus leucurus	328
+WTMG	White-throated Mountain-gem	Lampornis castaneoventris	
+WTMJ	White-throated Magpie-Jay	Calocitta formosa	
+WTNE	White-throated Needletail	Hirundapus caudacutus	
+WTNI	White-tailed Nightjar	Caprimulgus cayennensis	
+WTPT	White-tailed Ptarmigan	Lagopus leucura	304
+WTRO	White-throated Robin	Turdus assimilis	
+WTRS	White-throated Spadebill	Platyrinchus mystaceus	
+WTSA	Wedge-tailed Sabrewing	Campylopterus curvipennis	
+WTSH	Wedge-tailed Shearwater	Puffinus pacificus	96.099999999999994
+WTSI	White-tipped Sicklebill	Eutoxeres aquila	
+WTSP	White-throated Sparrow	Zonotrichia albicollis	558
+WTST	White-throated Shrike-Tanager	Lanio leucothorax	
+WTSW	White-throated Swift	Aeronautes saxatalis	425
+WTTO	White-throated Towhee	Pipilo albicollis	
+WTTR	White-tailed Tropicbird	Phaethon lepturus	112
+WVEU	White-vented Euphonia	Euphonia minuta	
+WVPL	White-vented Plumeleteer	Chalybura buffonii	
+WWBE	White-winged Becard	Pachyramphus polychopterus	
+WWCR	White-winged Crossbill	Loxia leucoptera	522
+WWDO	White-winged Dove	Zenaida asiatica	319
+WWJU	White-winged Junco	Junco h. aikeni	566
+WWPA	White-winged Parakeet	Brotogeris versicolurus	
+WWPU	White-whiskered Puffbird	Malacoptila panamensis	
+WWSC	White-winged Scoter	Melanitta fusca	165
+WWTA	White-winged Tanager	Piranga leucoptera	
+WWTE	White-winged Tern	Chlidonias leucopterus	78
+WWWA	White-winged Warbler	Xenoligea montana	
+XAHU	Xantus's Hummingbird	Hylocharis xantusii	440
+XAMU	Xantus's Murrelet	Synthliboramphus hypoleucus	25
+YBBU	Yellow-breasted Bunting	Emberiza aureola	
+YBCA	Yellow-billed Cardinal	Paroaria capitata	592.29999999999995
+YBCH	Yellow-breasted Chat	Icteria virens	683
+YBCO	Yellow-billed Cotinga	Carpodectes antoniae	
+YBCR	Yellow-breasted Crake	Porzana flaviventer	213.09999999999999
+YBCU	Yellow-billed Cuckoo	Coccyzus americanus	387
+YBEL	Yellow-bellied Elaenia	Elaenia flavogaster	909.89999999999998
+YBFL	Yellow-bellied Flycatcher	Empidonax flaviventris	463
+YBIC	Yellow-billed Cacique	Amblycercus holosericeus	
+YBLO	Yellow-billed Loon	Gavia adamsii	8
+YBMA	Yellow-billed Magpie	Pica nuttalli	476
+YBOR	Yellow-backed Oriole	Icterus chrysater	
+YBPA	Yellow-billed Parrot	Amazona collaria	
+YBSA	Yellow-bellied Sapsucker	Sphyrapicus varius	402
+YBSE	Yellow-bellied Seedeater	Sporophila nigricollis	918.20000000000005
+YBSI	Yellow-bellied Siskin	Carduelis xanthogastra	
+YBSV	Yellow-browed Shrike-Vireo	Vireolanius eximius	
+YBTA	Yellow-backed Tanager	Hemithraupis flavicollis	
+YBTE	Yellow-billed Tern	Sternula superciliaris	
+YBTY	Yellow-bellied Tyrannulet	Ornithion semiflavum	
+YBWA	Yellow-browed Warbler	Phylloscopus inornatus	
+YCBI	Yellow-crowned Bishop	Euplectes afer	
+YCCH	Yellow-collared Chlorophonia	Chlorophonia flavirostris	
+YCEU	Yellow-crowned Euphonia	Euphonia luteicapilla	
+YCNH	Yellow-crowned Night-Heron	Nyctanassa violacea	203
+YCPA	Yellow-crowned Parrot	Amazona ochrocephala	
+YCTY	Yellow-crowned Tyrannulet	Tyrannulus elatus	
+YEBI	Yellow Bittern	Ixobrychus sinensis	
+YEFL	Yellowish Flycatcher	Empidonax flavescens	
+YEGR	Yellow Grosbeak	Pheucticus chrysopeplus	596.10000000000002
+YEJU	Yellow-eyed Junco	Junco phaeonotus	570
+YEPI	Yellowish Pipit	Anthus lutescens	
+YERA	Yellow Rail	Coturnicops noveboracensis	215
+YETO	Yellow-eared Toucanet	Selenidera spectabilis	
+YETY	Yellow Tyrannulet	Capsiempis flaveola	
+YFCA	Yellow-fronted Canary	Serinus mozambicus	533.20000000000005
+YFGR	Yellow-faced Grassquit	Tiaris olivaceus	603.20000000000005
+YFGU	Yellow-footed Gull	Larus livens	49.100000000000001
+YGFI	Yellow-green Finch	Pselliophorus luteoviridis	
+YGGR	Yellow-green Grosbeak	Caryothraustes canadensis	
+YGTY	Yellow-green Tyrannulet	Phylloscartes flavovirens	
+YGVI	Yellow-green Vireo	Vireo flavoviridis	625
+YHBL	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	497
+YHCA	Yellow-headed Caracara	Milvago chimachima	
+YHPA	Yellow-headed Parrot	Amazona oratrix	
+YHWA	Yellow-headed Warbler	Teretistris fernandinae	
+YLGU	Yellow-legged Gull	Larus cachinnans	
+YLPA	Yellow-lored Parrot	Amazona xantholora	
+YMFL	Yellow-margined Flycatcher	Tolmomyias assimilis	
+YNAL	Yellow-nosed Albatross	Thalassarche chlororhynchos	83
+YNPA	Yellow-naped Parrot	Amazona auropalliata	
+YOFL	Yellow-olive Flycatcher	Tolmomyias sulphurescens	
+YPWA	Yellow Palm Warbler	Dendroica p. hypochrysea	672.89999999999998
+YRCA	Yellow-rumped Cacique	Cacicus cela	
+YRWA	Yellow-rumped Warbler	Dendroica coronata	
+YSBL	Yellow-shouldered Blackbird	Agelaius xanthomus	500.19999999999999
+YSFL	Yellow-shafted Flicker	Colaptes a. auratus	412
+YSGR	Yellow-shouldered Grassquit	Loxipasser anoxanthus	917.60000000000002
+YTBT	Yellow-throated Bush-Tanager	Chlorospingus flavigularis	
+YTBU	Yellow-throated Bunting	Emberiza elegans	
+YTEU	Yellow-throated Euphonia	Euphonia hirundinacea	
+YTFI	Yellow-thighed Finch	Pselliophorus tibialis	
+YTOR	Yellow-tailed Oriole	Icterus mesomelas	
+YTVI	Yellow-throated Vireo	Vireo flavifrons	628
+YTWA	Yellow-throated Warbler	Dendroica dominica	663
+YUFL	Yucatan Flycatcher	Myiarchus yucatanensis	
+YUJA	Yucatan Jay	Cyanocorax yucatanicus	
+YUNI	Yucatan Nightjar	Caprimulgus badius	
+YUPO	Yucatan Poorwill	Nyctiphrynus yucatanicus	
+YUVI	Yucatan Vireo	Vireo magister	
+YUWO	Yucatan Woodpecker	Melanerpes pygmaeus	
+YUWR	Yucatan Wren	Campylorhynchus yucatanicus	
+YWAR	Yellow Warbler	Dendroica petechia	652
+YWCA	Yellow-winged Cacique	Cacicus melanicterus	
+YWTA	Yellow-winged Tanager	Thraupis abbas	
+YWVI	Yellow-winged Vireo	Vireo carmioli	
+ZARA	Zapata Rail	Cyanolimnas cerverai	
+ZASP	Zapata Sparrow	Torreornis inexpectata	
+ZAWR	Zapata Wren	Ferminia cerverai	
+ZEBD	Zebra Dove	Geopelia striata	315.30000000000001
+ZEND	Zenaida Dove	Zenaida aurita	317
+ZTHA	Zone-tailed Hawk	Buteo albonotatus	340
