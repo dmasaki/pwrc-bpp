@@ -8,23 +8,52 @@ bpp <- read.csv("~/R/pwrc-bpp/bpp.csv")
 
 specieslu <- read.delim("~/R/pwrc-bpp/bpp_species_lu.txt")
 
-stctylu <- read.csv("~/R/usgs-bbl-2015-03//cntry_state_cnty_lookup.csv")
+# filter by first seen
 
-# Review data
+bpp_first<-bpp[bpp$first_arrived_dt!='',]
 
-View(bblspecies)
+row.names(bpp_first)<-NULL
 
-View(specieslu)
+# filter by last seen
 
-View(stctylu)
+bpp_last<-bpp[bpp$last_seen_dt!='',]
 
-# drop columns
+row.names(bpp_last)<-NULL
 
-bblspecies$X<-NULL
+# filter by next seen
 
-specieslu$X...<-NULL
+bpp_next<-bpp[bpp$next_seen_dt!='',]
 
-stctylu$X...<-NULL
+row.names(bpp_next)<-NULL
+
+# drop and rename columns
+
+colnames(bpp_first)
+
+bpp_first<-bpp_first[,-c(9,10,11,14,15)]
+
+colnames(bpp_first)[8]<-"occurrence_date"
+
+colnames(bpp_next)
+
+bpp_next<-bpp_next[,-c(8,10,11,14,15)]
+
+colnames(bpp_next)[8]<-"occurrence_date"
+
+colnames(bpp_last)
+
+bpp_last<-bpp_last[,-c(8,9,10,14,15)]
+
+colnames(bpp_last)[8]<-"occurrence_date"
+
+# bind dataframes
+
+bpp<- rbind(bpp_first,bpp_next,bpp_last)
+
+# join state name
+
+stateabbr <- read.csv("~/R/pwrc-bpp/US_State_Abbrev_StateName.csv")
+
 
 # Add sqldf library
    
@@ -32,141 +61,261 @@ install.packages("sqldf")
 
 library("sqldf", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")
 
-# Add species names to bblspecies dataframe
+# Add state names to bpp tables
 
-# SPECIES_ID in bblspecies is our key for retrieving scientific/common name
+statejoinstr <- "select bpp.*, stateabbr.name_long from bpp left join stateabbr on bpp.state_alpha_cd = stateabbr.name_short"
 
-speciesjoinstr <- "select bblspecies.*, specieslu.SCI_NAME, specieslu.SPECIES_NAME, specieslu.ALPHA_CODE from bblspecies left join specieslu on bblspecies.SPECIES_ID = specieslu.SPECIES_ID"
+bpp_join <- sqldf(statejoinstr)
 
-bblspecies_join <- sqldf(speciesjoinstr)
 
-# change date format ex. "12/14/98" >> "1998-12-14"
+# Add species scientific names
 
-bblspecies_join$iso_date<-as.Date(strptime(bblspecies_join$Banding.Date,'%Y-%m-%d'))
+speciesjoinstr <- "select bpp_join.*, specieslu.scientific_name from bpp_join left join specieslu on bpp_join.species_id = specieslu.species_id"
 
-# extract year from date
+bpp_join <- sqldf(speciesjoinstr)
 
-bblspecies_join$year<-format(bblspecies_join$iso_date, "%Y") 
+# merge descriptive info into general comments field
 
-# Add geographic information from state county lookup
+bpp_join$observation_id<-paste('observation-id', bpp_join$observation_id, sep=':')
 
-# Clean up code fields
+bpp_join$species_id<-paste('species-id', bpp_join$species_id, sep=':')
 
-# County code should be 3 character string
+bpp_join$town<-paste('town', bpp_join$town, sep=':')
 
-stctylu$COUNTY_CODE<-sprintf("%03d",stctylu$COUNTY_CODE)
+bpp_join$general_comments <- paste(bpp_join$observation_id,bpp_join$species_id,bpp_join$town, sep="|")
 
-bblspecies_join$COUNTY_CODE<-sprintf("%03d",bblspecies_join$COUNTY_CODE)
-
-# State code should be 2 character string
-
-stctylu$STATE_CODE<-sprintf("%02d",stctylu$STATE_CODE)
-
-bblspecies_join$STATE_CODE<-sprintf("%02d",bblspecies_join$STATE_CODE)
-
-# Concatenate state and county code to get 5 character FIPS
-
-bblspecies_join$FIPS <- paste(bblspecies_join$STATE_CODE, bblspecies_join$COUNTY_CODE, sep='')
-
-bblspecies_join$CFIPS <- paste(bblspecies_join$COUNTRY_CODE, bblspecies_join$FIPS, sep='')
-
-stctylu$FIPS <- paste(stctylu$STATE_CODE, stctylu$COUNTY_CODE, sep='')
-
-stctylu$CFIPS <- paste(stctylu$COUNTRY_CODE, stctylu$FIPS, sep='')
-
-# Join bblspecies_join and state lookup to retrieve state county
-
-stcntyjoinstr <- "select bblspecies_join.*, stctylu.STATE_NAME, stctylu.COUNTY_NAME, stctylu.COUNTY_DESCRIPTION from bblspecies_join left join stctylu on bblspecies_join.CFIPS = stctylu.CFIPS"
-
-bblspecies_join_temp <- sqldf(stcntyjoinstr)
-
-# if join returns same number of rows as original then commit final
-
-bblspecies_join <- bblspecies_join_temp
 
 # remove temp dataframes
 
-rm(bblspecies_join_temp)
+rm(bpp,bpp_first,bpp_last,bpp_next)
 
-rm(bblspecies)
 
 # Clean up headers and drop columns
 
 # change column header name to match BISON schema
 
-colnames(bblspecies_join)
+colnames(bpp_join)
 
-colnames(bblspecies_join)[2]<-"latitude"
+colnames(bpp_join)[2]<-"provided_common_name"
 
-colnames(bblspecies_join)[3]<-"longitude"
+colnames(bpp_join)[4]<-"year"
 
-colnames(bblspecies_join)[5]<-"iso_country_code"
+colnames(bpp_join)[5]<-"iso_country_code"
 
-colnames(bblspecies_join)[8]<-"provided_fips"
+colnames(bpp_join)[11]<-"provided_state_name"
 
-colnames(bblspecies_join)[9]<-"clean_provided_scientific_name"
+colnames(bpp_join)[12]<-"provided_scientific_name"
 
-colnames(bblspecies_join)[10]<-"provided_common_name"
-
-colnames(bblspecies_join)[13]<-"occurrence_date"
-
-colnames(bblspecies_join)[15]<-"provided_state_name"
-
-colnames(bblspecies_join)[16]<-"provided_county_name"
 
 # view column names
 
-colnames(bblspecies_join)
+colnames(bpp_join)
 
 
 # drop columns not used in final BISON data load
 
-bblspecies_join$SPECIES_ID<-NULL
+bpp_join$observation_id<-NULL
 
-bblspecies_join$Banding.Date<-NULL
+bpp_join$species_id<-NULL
 
-bblspecies_join$STATE_CODE<-NULL
+bpp_join$state_alpha_cd<-NULL
 
-bblspecies_join$COUNTY_CODE<-NULL
+bpp_join$town<-NULL
 
-bblspecies_join$ALPHA_CODE<-NULL
-
-bblspecies_join$CFIPS<-NULL
-
-bblspecies_join$COUNTY_DESCRIPTION<-NULL
+colnames(bpp_join)
 
 # write out to file
 
-write.table(bblspecies_join, file = "bbl_join_2015-02-22.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
+write.table(bpp_join, file = "bpp_join_2015-02-28.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
 
-# clear objects in memory restart R studio 
 
 # load text file to complete processing
 
-bblspecies_join <- read.delim("~/R/bbl_join_2015-02-22.txt")
-
-# add BISON columns and order using template and datamerge library
-
-install.packages("datamerge")
-
-library("datamerge", lib.loc="/Library/Frameworks/R.framework/Versions/3.1/Resources/library")
+bpp_join <- read.delim("~/R/pwrc-bpp/bbl_join_2015-02-28.txt")
 
 ## create data columns for BISON ingest by running external R script
 
 source("Create_BISON_DataFrame_43F.R") 
 
-# create subset to work against
+bpp_join_temp<-bpp_join
 
-bblspecies_subset<-bblspecies_join
+bpp_join_temp$clean_provided_scientific_name<- bpp_join_temp$provided_scientific_name # field 1
 
-# use template to order data columns 
+bpp_join_temp$itis_common_name<-"" # field 2
 
-bblspecies_join<-version.merge(bsn43f, bblspecies_join, add.rows=TRUE, add.cols=TRUE, add.values=TRUE, verbose=TRUE)
+bpp_join_temp$itis_tsn<-"" # field  3
+
+bpp_join_temp$basis_of_record<-"observation" # field 4
+
+# bpp_join_temp$occurrence_date<-"" # field 5
+
+# bpp_join_temp$year<-"" # field 6
+
+bpp_join_temp$provider<-"BISON" # field 7
+
+bpp_join_temp$provider_url<-"http://bison.usgs.ornl.gov" # field 8
+
+bpp_join_temp$resource<-"USGS PWRC - Bird Phenology Program" # field 9 
+
+bpp_join_temp$resource_url<-"http://www.pwrc.usgs.gov/bpp" # field 10
+
+bpp_join_temp$occurrence_url<-"" # field 11
+
+bpp_join_temp$catalog_number<-"" # field 12
+
+bpp_join_temp$collector<-"" # field 13
+
+bpp_join_temp$collector_number<-"" # field 14
+
+bpp_join_temp$valid_accepted_scientific_name<-"" # field 15
+
+bpp_join_temp$valid_accepted_tsn<-"" # field 16
+
+# bpp_join_temp$provided_scientific_name<-bpp_join_temp$clean_provided_scientific_name # field 17
+
+bpp_join_temp$provided_tsn<-"" # field 18
+
+# bpp_join_temp$latitude<-"" # field 19
+
+# bpp_join_temp$longitude<-"" # field 20
+
+bpp_join_temp$verbatim_elevation<-"" # field 21
+
+bpp_join_temp$verbatim_depth<-"" # field 22
+
+bpp_join_temp$calculated_county_name<-"" # field 23
+
+bpp_join_temp$calculated_fips<-"" # field 24
+
+bpp_join_temp$calculated_state_name<-"" # field 25
+
+bpp_join_temp$centroid<-"" # field 26
+
+bpp_join_temp$provided_county_name<-"" # field 27
+
+bpp_join_temp$provided_fips<-"" # field 28
+
+# bpp_join_temp$provided_state_name<-"" # field 29
+
+bpp_join_temp$thumb_url<-"" # field 30
+
+bpp_join_temp$associated_media<-"" # field 31
+
+bpp_join_temp$associated_references<-"" # field 32
+
+# bpp_join_temp$general_comments<-"" # field 33
+
+bpp_join_temp$id<-"" # field 34 
+
+bpp_join_temp$provider_id<-"" # field 35
+
+bpp_join_temp$resource_id<-"" # field 36
+
+# bpp_join_temp$provided_common_name<-"" # field 37
+
+bpp_join_temp$provided_kingdom<-"Animalia" # field 38
+
+bpp_join_temp$geodetic_datum<-"" # field 39
+
+bpp_join_temp$coordinate_precision<-"" # field 40
+
+bpp_join_temp$coordinate_uncertainty<-"" # field 41
+
+bpp_join_temp$verbatim_locality<-"" # field 42
+
+# bpp_join_temp$iso_country_code<-"" # field 43
+
+# use rbind to order data columns - bsn43f is master order
+
+bpp_join_temp <- rbind(bsn43f,bpp_join_temp)
+
+bpp_join_temp <- bpp_join_temp[-1,] # remove first row
+
+row.names(bpp_join_temp)<-NULL # remove row.names column
+
+# review scientific names and clean
+
+uspecies_bpp<-unique(bpp_join_temp$clean_provided_scientific_name)
+
+# trim clean species names
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(' \\(sp\\) ',' ',bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<- gsub('\\(sp\\) ','',bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub('\\(sp\\)','',bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(' \\(sp\\)','',bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" leuc. x atricap.","",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" b. "," ",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" p. "," ",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" h. "," ",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" a. "," ",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" s. "," ",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" c. "," ",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" l. "," ",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" j. "," ",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" x platy.","",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" x chrysopt.","",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" flamm.","",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" a.auratus x cafer"," auratus",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" flamm./hornemanni"," hornemanni",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" alnorum/traillii"," alnorum",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" difficilis/occid."," difficilis",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub(" leuc. x atricap.","",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub("Carduelis/hornemanni","Carduelis hornemanni",bpp_join_temp$clean_provided_scientific_name)
+
+bpp_join_temp$clean_provided_scientific_name<-gsub("Ammodramus nelsoni/caudacut.","Ammodramus nelsoni",bpp_join_temp$clean_provided_scientific_name)
+
+# bpp_join_temp$clean_provided_scientific_name<-gsub(" ()","",bpp_join_temp$clean_provided_scientific_name)
+
+uspecies_bpp<-unique(bpp_join_temp$clean_provided_scientific_name)
+
+# remove records with no species name
+
+bpp_join_temp_blank_sciname<-bpp_join_temp[bpp_join_temp$clean_provided_scientific_name=='',]
+
+bpp_join_temp<-bpp_join_temp[bpp_join_temp$clean_provided_scientific_name!='',]
+
+# subset for review
+
+uspecies_bpp<-unique(bpp_join_temp$clean_provided_scientific_name)
+write.table(uspecies_bpp, file = "bison_bpp_uspecies_2015-02-28.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
+rm(uspecies_bpp)
+
+bpp_top50<-head(bpp_join_temp)
+write.table(bpp_top50, file = "bison_bpp_top50_2015-02-28.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
+rm(bpp_top50)
+
+bpp_bottom50<-tail(bpp_join_temp)
+write.table(bpp_bottom50, file = "bison_bpp_bottom_50_2015-02-28.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
+rm(bpp_bottom50)
+
+bpp_subset100000<-bpp_join_temp[1:100000,]
+write.table(bpp_subset100000, file = "bison_bpp_100k_2015-02-28.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
+rm(bpp_subset100000)
 
 # write out final bbl data
 
-write.table(bblspecies_join, file = "bison_bbl_us10min_final_2015-02-22.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
-
+write.table(bpp_join_temp, file = "bison_bpp_ordered_final_2015-02-28.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
 
 
 
