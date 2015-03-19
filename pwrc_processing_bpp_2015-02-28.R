@@ -157,7 +157,7 @@ bpp_join_temp$provider_url<-"http://bison.usgs.ornl.gov" # field 8
 
 bpp_join_temp$resource<-"USGS PWRC - Bird Phenology Program" # field 9 
 
-bpp_join_temp$resource_url<-"http://www.pwrc.usgs.gov/bpp" # field 10
+bpp_join_temp$resource_url<-"http://bison.ornl.gov/ipt/resource.do?r=usgs_pwrc_bird_phenology_program_us_birds" # field 10
 
 bpp_join_temp$occurrence_url<-"" # field 11
 
@@ -315,7 +315,7 @@ rm(bpp_subset100000)
 
 # write out final bbl data
 
-write.table(bpp_join_temp, file = "bison_bpp_ordered_final_2015-02-28.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
+write.table(bsnbpp, file = "bison_bpp_ordered_final_2015-03-19.txt", append = FALSE, quote = FALSE, sep= "\t", eol = "\n", na = "", dec = ".", row.names = FALSE, col.names = TRUE)
 
 
 
